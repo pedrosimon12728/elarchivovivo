@@ -1,2 +1,102 @@
-# elarchivovivo
-Registro permanente de análisis geopolítico e institucional. Frío, preciso, sin etiquetas políticas.
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>El Archivo Vivo</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { background: #0a0a0a; color: #d0d0d0; font-family: 'Courier New', monospace; line-height: 1.6; }
+        .container { max-width: 880px; margin: 0 auto; padding: 0 1.5rem; }
+        header { border-bottom: 2px solid #2a2a2a; padding: 3rem 0 2.5rem; }
+        h1 { font-size: 3rem; color: #fafafa; margin-bottom: 1rem; text-transform: uppercase; }
+        h2 { font-size: 1.8rem; color: #e8e8e8; margin-bottom: 1.5rem; border-bottom: 2px solid #2a2a2a; padding-bottom: 0.8rem; text-transform: uppercase; }
+        h3 { font-size: 1.1rem; color: #fafafa; margin-bottom: 0.8rem; text-transform: uppercase; }
+        p { margin-bottom: 1.2rem; }
+        a { color: #e8e8e8; text-decoration: none; border-bottom: 1px solid #e8e8e8; }
+        section { padding: 3.5rem 0; border-bottom: 1px solid #2a2a2a; }
+        .hero { padding: 4rem 0 3rem; border-bottom: 1px solid #2a2a2a; }
+        .tagline { font-size: 1.15rem; color: #e8e8e8; max-width: 640px; }
+        .quote { border-left: 3px solid #333; padding-left: 1.5rem; margin: 2rem 0; color: #fafafa; }
+        .coverage-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 1px; background: #2a2a2a; }
+        .coverage-item { background: #0a0a0a; padding: 1.5rem; }
+        .coverage-item .tag { font-size: 0.7rem; color: #666; text-transform: uppercase; display: block; margin-bottom: 0.5rem; }
+        .formats { display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; }
+        .format-card { border: 1px solid #2a2a2a; padding: 2rem; }
+        footer { padding: 3rem 0 4rem; text-align: center; }
+        .signature { font-size: 0.95rem; color: #fafafa; margin-bottom: 1rem; text-transform: uppercase; }
+        @media (max-width: 640px) { .formats { grid-template-columns: 1fr; } h1 { font-size: 2rem; } }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>El Archivo Vivo</h1>
+            <p><a href="https://x.com/El_ArchivoVivo">@El_ArchivoVivo</a> — Santiago, Chile</p>
+        </div>
+    </header>
+
+    <div class="hero">
+        <div class="container">
+            <p class="tagline">Análisis geopolítico e institucional. Frío, preciso, sin etiquetas políticas. Lo que las instituciones hacen — no lo que dicen.</p>
+        </div>
+    </div>
+
+    <section>
+        <div class="container">
+            <h2>Manifiesto</h2>
+            <p>El Archivo Vivo documenta el comportamiento real de las estructuras de poder: estados, organismos internacionales, bancos centrales, partidos. No milita. No adula. No olvida.</p>
+            <div class="quote">Valores y principios sobre ideología. El registro es la única lealtad.</div>
+            <p>Cada publicación queda archivada como evidencia del momento. La memoria institucional es frágil; este canal existe para que no lo sea.</p>
+        </div>
+    </section>
+
+    <section>
+        <div class="container">
+            <h2>Cobertura</h2>
+            <div class="coverage-grid">
+                <div class="coverage-item">
+                    <span class="tag">Geopolítica</span>
+                    <h3>Conflictos y realineamientos globales</h3>
+                </div>
+                <div class="coverage-item">
+                    <span class="tag">Institucionalidad</span>
+                    <h3>Erosión y captura de estructuras estatales</h3>
+                </div>
+                <div class="coverage-item">
+                    <span class="tag">América Latina</span>
+                    <h3>Procesos electorales y crisis regionales</h3>
+                </div>
+                <div class="coverage-item">
+                    <span class="tag">Chile / RM</span>
+                    <h3>Registro local con lectura estructural</h3>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section>
+        <div class="container">
+            <h2>Formatos</h2>
+            <div class="formats">
+                <div class="format-card">
+                    <h3>Archivo del Día</h3>
+                    <p>Boletín diario en hilo: 3–5 ítems institucionales etiquetados [TEMA — PAÍS], con análisis y cierre de firma.</p>
+                </div>
+                <div class="format-card">
+                    <h3>Flash</h3>
+                    <p>Análisis individual de coyuntura: un hecho, su contexto estructural, su implicancia. Publicado al momento.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <div class="signature">El Archivo Vivo</div>
+            <p style="font-size: 0.75rem; color: #666;">Registro activo desde 2024 · Santiago, Chile</p>
+            <a href="https://x.com/El_ArchivoVivo" style="display: inline-block; margin-top: 1.5rem; padding: 0.8rem 2rem; border: 1px solid #e8e8e8;">Seguir en X</a>
+        </div>
+    </footer>
+</body>
+</html>
