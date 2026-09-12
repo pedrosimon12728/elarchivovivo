@@ -6,35 +6,35 @@
     <title>El Archivo Vivo</title>
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
-        body { background: #0a0a0a; color: #d0d0d0; font-family: 'Courier New', monospace; line-height: 1.6; }
+        body { background: #ffffff; color: #222222; font-family: 'Courier New', monospace; line-height: 1.6; }
         .container { max-width: 880px; margin: 0 auto; padding: 0 1.5rem; }
-        header { border-bottom: 2px solid #2a2a2a; padding: 3rem 0 2.5rem; }
-        h1 { font-size: 3rem; color: #fafafa; margin-bottom: 1rem; text-transform: uppercase; }
-        h2 { font-size: 1.8rem; color: #e8e8e8; margin-bottom: 1.5rem; border-bottom: 2px solid #2a2a2a; padding-bottom: 0.8rem; text-transform: uppercase; }
-        h3 { font-size: 1.1rem; color: #fafafa; margin-bottom: 0.8rem; text-transform: uppercase; }
+        header { border-bottom: 2px solid #e2e2e2; padding: 3rem 0 2.5rem; }
+        h1 { font-size: 3rem; color: #111111; margin-bottom: 1rem; text-transform: uppercase; }
+        h2 { font-size: 1.8rem; color: #111111; margin-bottom: 1.5rem; border-bottom: 2px solid #e2e2e2; padding-bottom: 0.8rem; text-transform: uppercase; }
+        h3 { font-size: 1.1rem; color: #111111; margin-bottom: 0.8rem; text-transform: uppercase; }
         p { margin-bottom: 1.2rem; }
-        a { color: #e8e8e8; text-decoration: none; border-bottom: 1px solid #e8e8e8; }
-        section { padding: 3.5rem 0; border-bottom: 1px solid #2a2a2a; }
-        .hero { padding: 4rem 0 3rem; border-bottom: 1px solid #2a2a2a; }
-        .tagline { font-size: 1.15rem; color: #e8e8e8; max-width: 640px; }
-        .quote { border-left: 3px solid #333; padding-left: 1.5rem; margin: 2rem 0; color: #fafafa; }
-        .coverage-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 1px; background: #2a2a2a; }
-        .coverage-item { background: #0a0a0a; padding: 1.5rem; }
-        .coverage-item .tag { font-size: 0.7rem; color: #666; text-transform: uppercase; display: block; margin-bottom: 0.5rem; }
+        a { color: #111111; text-decoration: none; border-bottom: 1px solid #111111; }
+        section { padding: 3.5rem 0; border-bottom: 1px solid #e2e2e2; }
+        .hero { padding: 4rem 0 3rem; border-bottom: 1px solid #e2e2e2; }
+        .tagline { font-size: 1.15rem; color: #222222; max-width: 640px; }
+        .quote { border-left: 3px solid #111111; padding-left: 1.5rem; margin: 2rem 0; color: #111111; }
+        .coverage-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 1px; background: #e2e2e2; }
+        .coverage-item { background: #ffffff; padding: 1.5rem; }
+        .coverage-item .tag { font-size: 0.7rem; color: #666666; text-transform: uppercase; display: block; margin-bottom: 0.5rem; }
         .formats { display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; }
-        .format-card { border: 1px solid #2a2a2a; padding: 2rem; }
-        .archivo-fecha { font-size: 0.75rem; color: #666; text-transform: uppercase; margin-bottom: 1.5rem; letter-spacing: 0.05em; }
-        .archivo-item { border-left: 3px solid #333; padding-left: 1.5rem; margin-bottom: 2rem; }
-        .archivo-item .tag { font-size: 0.7rem; color: #888; text-transform: uppercase; display: block; margin-bottom: 0.5rem; letter-spacing: 0.05em; }
+        .format-card { border: 1px solid #e2e2e2; padding: 2rem; }
+        .archivo-fecha { font-size: 0.75rem; color: #666666; text-transform: uppercase; margin-bottom: 1.5rem; letter-spacing: 0.05em; }
+        .archivo-item { border-left: 3px solid #111111; padding-left: 1.5rem; margin-bottom: 2rem; }
+        .archivo-item .tag { font-size: 0.7rem; color: #555555; text-transform: uppercase; display: block; margin-bottom: 0.5rem; letter-spacing: 0.05em; }
         .archivo-item h3 { margin-bottom: 0.6rem; }
-        .archivo-item .analisis { color: #a0a0a0; margin-bottom: 0.5rem; }
+        .archivo-item .analisis { color: #333333; margin-bottom: 0.5rem; }
         .archivo-item .fuente { font-size: 0.8rem; }
-        .archivo-item .fuente a { border-bottom: 1px solid #444; color: #999; }
+        .archivo-item .fuente a { border-bottom: 1px solid #888888; color: #333333; }
         .registro-lista { list-style: none; margin: 0 0 1.5rem; }
         .registro-lista li { margin-bottom: 0.8rem; }
-        .nota-permanente { color: #888; font-size: 0.85rem; margin-bottom: 2rem; }
+        .nota-permanente { color: #555555; font-size: 0.85rem; margin-bottom: 2rem; }
         footer { padding: 3rem 0 4rem; text-align: center; }
-        .signature { font-size: 0.95rem; color: #fafafa; margin-bottom: 1rem; text-transform: uppercase; }
+        .signature { font-size: 0.95rem; color: #111111; margin-bottom: 1rem; text-transform: uppercase; }
         @media (max-width: 640px) { .formats { grid-template-columns: 1fr; } h1 { font-size: 2rem; } }
     </style>
 </head>
@@ -122,8 +122,8 @@
     <footer>
         <div class="container">
             <div class="signature">El Archivo Vivo</div>
-            <p style="font-size: 0.75rem; color: #666;">Registro activo desde 2024 · Santiago, Chile · Actualizado 10.09.2026</p>
-            <a href="https://x.com/El_ArchivoVivo" style="display: inline-block; margin-top: 1.5rem; padding: 0.8rem 2rem; border: 1px solid #e8e8e8;">Seguir en X</a>
+            <p style="font-size: 0.75rem; color: #666666;">Registro activo desde 2024 · Santiago, Chile · Actualizado 10.09.2026</p>
+            <a href="https://x.com/El_ArchivoVivo" style="display: inline-block; margin-top: 1.5rem; padding: 0.8rem 2rem; border: 1px solid #111111;">Seguir en X</a>
         </div>
     </footer>
 </body>
