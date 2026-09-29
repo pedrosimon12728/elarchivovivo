@@ -1,0 +1,585 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Estudio de publicaciones — El Archivo Vivo</title>
+<style>
+:root {
+  --ink: #111111;
+  --text: #222222;
+  --muted: #555555;
+  --line: #e2e2e2;
+  --bg: #ffffff;
+  --warn: #8a1f1f;
+  --ok: #1a4d2e;
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: "Courier New", Courier, monospace;
+  line-height: 1.55;
+}
+a { color: var(--ink); text-decoration: none; border-bottom: 1px solid var(--ink); }
+.wrap { max-width: 1180px; margin: 0 auto; padding: 0 1.25rem 4rem; }
+header {
+  border-bottom: 2px solid var(--line);
+  padding: 2rem 0 1.4rem;
+}
+header h1 {
+  font-size: 1.65rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--ink);
+}
+header p { color: var(--muted); font-size: 0.85rem; margin-top: 0.35rem; }
+.toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  align-items: center;
+  padding: 1rem 0;
+  border-bottom: 1px solid var(--line);
+}
+.tabs { display: flex; gap: 0; }
+.tab, button, .btn {
+  font-family: inherit;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  background: var(--bg);
+  color: var(--ink);
+  border: 1px solid var(--ink);
+  padding: 0.55rem 0.9rem;
+  cursor: pointer;
+}
+.tab.active, .btn.primary { background: var(--ink); color: #fff; }
+.btn.ghost { border-color: var(--line); color: var(--muted); }
+.btn:disabled { opacity: 0.4; cursor: not-allowed; }
+.layout {
+  display: grid;
+  grid-template-columns: 1.05fr 0.95fr;
+  gap: 2rem;
+  padding-top: 1.6rem;
+}
+@media (max-width: 920px) { .layout { grid-template-columns: 1fr; } }
+h2 {
+  font-size: 1rem;
+  text-transform: uppercase;
+  border-bottom: 2px solid var(--line);
+  padding-bottom: 0.5rem;
+  margin-bottom: 1rem;
+}
+label {
+  display: block;
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin: 0.7rem 0 0.25rem;
+}
+input[type="text"], input[type="date"], textarea, select {
+  width: 100%;
+  font-family: inherit;
+  font-size: 0.92rem;
+  color: var(--text);
+  background: var(--bg);
+  border: 1px solid var(--line);
+  padding: 0.55rem 0.65rem;
+}
+textarea { min-height: 88px; resize: vertical; }
+.row { display: grid; grid-template-columns: 1fr 1fr; gap: 0.8rem; }
+.item {
+  border: 1px solid var(--line);
+  padding: 0.9rem;
+  margin-bottom: 0.9rem;
+}
+.item-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.4rem;
+}
+.item-head strong { font-size: 0.8rem; text-transform: uppercase; }
+.item-actions { display: flex; gap: 0.35rem; }
+.item-actions button { padding: 0.25rem 0.45rem; font-size: 0.7rem; }
+.hint { font-size: 0.75rem; color: var(--muted); margin: 0.4rem 0 1rem; }
+.tweet {
+  border: 1px solid var(--line);
+  padding: 0.85rem;
+  margin-bottom: 0.75rem;
+  position: relative;
+}
+.tweet.over { border-color: var(--warn); }
+.tweet-meta {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin-bottom: 0.4rem;
+}
+.count.ok { color: var(--ok); }
+.count.warn { color: var(--warn); }
+.tweet textarea { min-height: 110px; border: none; padding: 0; }
+.preview-card {
+  border: 1px solid var(--ink);
+  padding: 1rem 1rem 0.8rem;
+  margin-bottom: 0.8rem;
+  white-space: pre-wrap;
+  word-break: break-word;
+}
+.preview-card .num { font-size: 0.7rem; color: var(--muted); text-transform: uppercase; margin-bottom: 0.35rem; }
+.actions-col { display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 1rem 0; }
+.status {
+  font-size: 0.8rem;
+  color: var(--muted);
+  min-height: 1.2rem;
+}
+.templates { display: flex; flex-wrap: wrap; gap: 0.4rem; margin-bottom: 0.8rem; }
+.templates button { font-size: 0.68rem; padding: 0.35rem 0.55rem; }
+footer {
+  margin-top: 2.5rem;
+  padding-top: 1.2rem;
+  border-top: 1px solid var(--line);
+  font-size: 0.75rem;
+  color: var(--muted);
+  text-align: center;
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>El Archivo Vivo</h1>
+    <p>Estudio de publicaciones para X · @El_ArchivoVivo · Santiago, Chile</p>
+  </header>
+
+  <div class="toolbar">
+    <div class="tabs">
+      <button class="tab active" data-mode="hilo" type="button">Archivo del Día</button>
+      <button class="tab" data-mode="flash" type="button">Flash</button>
+    </div>
+    <button class="btn" id="btn-generate" type="button">Generar hilo</button>
+    <button class="btn" id="btn-new-item" type="button">Añadir ítem</button>
+    <button class="btn ghost" id="btn-clear" type="button">Vaciar borrador</button>
+  </div>
+
+  <div class="layout">
+    <section>
+      <h2>Fuente</h2>
+      <div class="row">
+        <div>
+          <label for="fecha">Fecha</label>
+          <input type="date" id="fecha">
+        </div>
+        <div>
+          <label for="titulo">Título del registro</label>
+          <input type="text" id="titulo" placeholder="Duelo policial, desarticulación del PCC…">
+        </div>
+      </div>
+      <label for="cierre">Cierre del hilo</label>
+      <input type="text" id="cierre" value="El registro no se elimina. El Archivo Vivo.">
+      <p class="hint">Cada ítem se convierte en uno o dos posts. El primer post abre el Archivo del Día; el último cierra con firma.</p>
+      <div id="items"></div>
+    </section>
+
+    <section>
+      <h2>Hilo para X</h2>
+      <div class="templates">
+        <button type="button" data-tpl="opener">Plantilla apertura</button>
+        <button type="button" data-tpl="firma">Plantilla firma</button>
+        <button type="button" data-tpl="pregunta">Cierre con pregunta</button>
+      </div>
+      <div id="tweets"></div>
+      <div class="actions-col">
+        <button class="btn primary" id="btn-copy-all" type="button">Copiar hilo completo</button>
+        <button class="btn" id="btn-add-tweet" type="button">Añadir post</button>
+        <button class="btn ghost" id="btn-export" type="button">Exportar .txt</button>
+      </div>
+      <p class="status" id="status"></p>
+      <h2>Vista previa</h2>
+      <div id="preview"></div>
+    </section>
+  </div>
+
+  <footer>
+    Formato canónico: [TEMA — PAÍS] · 280 caracteres · frío, preciso, sin etiquetas políticas.<br>
+    <a href="index.html">← Volver al archivo</a>
+  </footer>
+</div>
+
+<script>
+const LIMIT = 280;
+const STORAGE_KEY = "eav-estudio-v1";
+
+const $ = (id) => document.getElementById(id);
+const itemsEl = $("items");
+const tweetsEl = $("tweets");
+const previewEl = $("preview");
+const statusEl = $("status");
+
+let mode = "hilo";
+let items = [];
+let tweets = [];
+
+function todayISO() {
+  const d = new Date();
+  const tz = d.getTimezoneOffset() * 60000;
+  return new Date(d - tz).toISOString().slice(0, 10);
+}
+
+function fmtDate(iso) {
+  if (!iso) return "";
+  const [y, m, d] = iso.split("-");
+  return `${d}.${m}.${y}`;
+}
+
+function uid() {
+  return Math.random().toString(36).slice(2, 9);
+}
+
+function countChars(text) {
+  return Array.from(text || "").length;
+}
+
+function newItem() {
+  return { id: uid(), tag: "", titulo: "", analisis: "", fuente: "" };
+}
+
+function persist() {
+  const payload = {
+    mode,
+    fecha: $("fecha").value,
+    titulo: $("titulo").value,
+    cierre: $("cierre").value,
+    items,
+    tweets
+  };
+  localStorage.setItem(STORAGE_KEY, JSON.stringify(payload));
+}
+
+function restore() {
+  $("fecha").value = todayISO();
+  try {
+    const raw = localStorage.getItem(STORAGE_KEY);
+    if (!raw) {
+      items = [newItem(), newItem(), newItem()];
+      return;
+    }
+    const data = JSON.parse(raw);
+    mode = data.mode || "hilo";
+    $("fecha").value = data.fecha || todayISO();
+    $("titulo").value = data.titulo || "";
+    $("cierre").value = data.cierre || "El registro no se elimina. El Archivo Vivo.";
+    items = Array.isArray(data.items) && data.items.length ? data.items : [newItem()];
+    tweets = Array.isArray(data.tweets) ? data.tweets : [];
+  } catch {
+    items = [newItem()];
+  }
+  document.querySelectorAll(".tab").forEach((t) => {
+    t.classList.toggle("active", t.dataset.mode === mode);
+  });
+}
+
+function renderItems() {
+  itemsEl.innerHTML = items.map((item, i) => `
+    <div class="item" data-id="${item.id}">
+      <div class="item-head">
+        <strong>Ítem ${i + 1}</strong>
+        <div class="item-actions">
+          <button type="button" data-act="up" ${i === 0 ? "disabled" : ""}>↑</button>
+          <button type="button" data-act="down" ${i === items.length - 1 ? "disabled" : ""}>↓</button>
+          <button type="button" data-act="del">Quitar</button>
+        </div>
+      </div>
+      <label>Etiqueta [TEMA — PAÍS]</label>
+      <input type="text" data-field="tag" value="${escapeAttr(item.tag)}" placeholder="Seguridad policial — Chile">
+      <label>Titular</label>
+      <input type="text" data-field="titulo" value="${escapeAttr(item.titulo)}">
+      <label>Análisis</label>
+      <textarea data-field="analisis">${escapeHtml(item.analisis)}</textarea>
+      <label>Fuente (opcional)</label>
+      <input type="text" data-field="fuente" value="${escapeAttr(item.fuente)}" placeholder="La Tercera — título corto">
+    </div>
+  `).join("");
+}
+
+function escapeHtml(s) {
+  return String(s || "")
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;");
+}
+
+function escapeAttr(s) {
+  return escapeHtml(s).replace(/"/g, "&quot;");
+}
+
+function splitText(text, max) {
+  const clean = (text || "").trim();
+  if (!clean) return [];
+  if (countChars(clean) <= max) return [clean];
+  const parts = [];
+  const sentences = clean.split(/(?<=\.)\s+/);
+  let buf = "";
+  for (const sentence of sentences) {
+    const next = buf ? `${buf} ${sentence}` : sentence;
+    if (countChars(next) <= max) {
+      buf = next;
+    } else {
+      if (buf) parts.push(buf);
+      if (countChars(sentence) <= max) {
+        buf = sentence;
+      } else {
+        let rest = sentence;
+        while (countChars(rest) > max) {
+          let cut = rest.slice(0, max);
+          const sp = cut.lastIndexOf(" ");
+          if (sp > 40) cut = cut.slice(0, sp);
+          parts.push(cut.trim());
+          rest = rest.slice(cut.length).trim();
+        }
+        buf = rest;
+      }
+    }
+  }
+  if (buf) parts.push(buf);
+  return parts;
+}
+
+function generateThread() {
+  const fecha = fmtDate($("fecha").value);
+  const titulo = $("titulo").value.trim();
+  const cierre = $("cierre").value.trim();
+  const out = [];
+
+  if (mode === "flash") {
+    const item = items[0] || newItem();
+    const head = item.tag ? `[${item.tag}]` : "[FLASH]";
+    const title = item.titulo || titulo;
+    const chunks = splitText(`${head} ${title}\n\n${item.analisis}`.trim(), LIMIT);
+    chunks.forEach((t) => out.push({ id: uid(), text: t }));
+    if (item.fuente) out.push({ id: uid(), text: `Fuente: ${item.fuente}` });
+    if (cierre) out.push({ id: uid(), text: cierre });
+    tweets = out;
+    persist();
+    renderTweets();
+    setStatus("Flash generado.");
+    return;
+  }
+
+  const openerBits = ["ARCHIVO DEL DÍA"];
+  if (fecha) openerBits.push(fecha);
+  if (titulo) openerBits.push(titulo);
+  openerBits.push("Registro permanente. Lo que las instituciones hacen — no lo que dicen.");
+  out.push({ id: uid(), text: openerBits.join("\n") });
+
+  items.forEach((item) => {
+    if (!item.titulo && !item.analisis) return;
+    const tag = item.tag ? `[${item.tag}]` : "";
+    const body = [tag, item.titulo, "", item.analisis].filter((x, i, a) => !(x === "" && a[i - 1] === "")).join("\n").trim();
+    const chunks = splitText(body, LIMIT);
+    chunks.forEach((t) => out.push({ id: uid(), text: t }));
+    if (item.fuente) {
+      const src = `Fuente: ${item.fuente}`;
+      if (countChars(src) <= LIMIT) out.push({ id: uid(), text: src });
+    }
+  });
+
+  if (cierre) out.push({ id: uid(), text: cierre });
+  tweets = out;
+  persist();
+  renderTweets();
+  setStatus(`Hilo generado: ${tweets.length} publicaciones.`);
+}
+
+function renderTweets() {
+  tweetsEl.innerHTML = tweets.map((tw, i) => {
+    const n = countChars(tw.text);
+    const over = n > LIMIT;
+    return `
+      <div class="tweet ${over ? "over" : ""}" data-id="${tw.id}">
+        <div class="tweet-meta">
+          <span>Post ${i + 1} / ${tweets.length}</span>
+          <span class="count ${over ? "warn" : "ok"}">${n} / ${LIMIT}</span>
+        </div>
+        <textarea data-field="text">${escapeHtml(tw.text)}</textarea>
+        <div class="item-actions" style="margin-top:0.45rem">
+          <button type="button" data-act="copy">Copiar</button>
+          <button type="button" data-act="up" ${i === 0 ? "disabled" : ""}>↑</button>
+          <button type="button" data-act="down" ${i === tweets.length - 1 ? "disabled" : ""}>↓</button>
+          <button type="button" data-act="del">Quitar</button>
+        </div>
+      </div>
+    `;
+  }).join("") || `<p class="hint">Genere el hilo a partir de los ítems o añada posts manualmente.</p>`;
+  renderPreview();
+}
+
+function renderPreview() {
+  previewEl.innerHTML = tweets.map((tw, i) => `
+    <div class="preview-card">
+      <div class="num">${i + 1}/${tweets.length} · @El_ArchivoVivo</div>
+      <div>${escapeHtml(tw.text)}</div>
+    </div>
+  `).join("");
+}
+
+function setStatus(msg) {
+  statusEl.textContent = msg || "";
+}
+
+function move(arr, id, dir) {
+  const i = arr.findIndex((x) => x.id === id);
+  const j = i + dir;
+  if (i < 0 || j < 0 || j >= arr.length) return arr;
+  const copy = arr.slice();
+  [copy[i], copy[j]] = [copy[j], copy[i]];
+  return copy;
+}
+
+function threadText() {
+  return tweets.map((tw, i) => `— ${i + 1}/${tweets.length} —\n${tw.text}`).join("\n\n");
+}
+
+async function copyText(text) {
+  try {
+    await navigator.clipboard.writeText(text);
+    return true;
+  } catch {
+    const ta = document.createElement("textarea");
+    ta.value = text;
+    document.body.appendChild(ta);
+    ta.select();
+    const ok = document.execCommand("copy");
+    ta.remove();
+    return ok;
+  }
+}
+
+itemsEl.addEventListener("input", (e) => {
+  const card = e.target.closest(".item");
+  if (!card) return;
+  const item = items.find((x) => x.id === card.dataset.id);
+  if (!item) return;
+  item[e.target.dataset.field] = e.target.value;
+  persist();
+});
+
+itemsEl.addEventListener("click", (e) => {
+  const btn = e.target.closest("button");
+  if (!btn) return;
+  const card = e.target.closest(".item");
+  const id = card.dataset.id;
+  const act = btn.dataset.act;
+  if (act === "del") items = items.filter((x) => x.id !== id);
+  if (act === "up") items = move(items, id, -1);
+  if (act === "down") items = move(items, id, 1);
+  persist();
+  renderItems();
+});
+
+tweetsEl.addEventListener("input", (e) => {
+  const card = e.target.closest(".tweet");
+  if (!card) return;
+  const tw = tweets.find((x) => x.id === card.dataset.id);
+  if (!tw) return;
+  tw.text = e.target.value;
+  persist();
+  const n = countChars(tw.text);
+  const meta = card.querySelector(".count");
+  meta.textContent = `${n} / ${LIMIT}`;
+  meta.className = `count ${n > LIMIT ? "warn" : "ok"}`;
+  card.classList.toggle("over", n > LIMIT);
+  renderPreview();
+});
+
+tweetsEl.addEventListener("click", async (e) => {
+  const btn = e.target.closest("button");
+  if (!btn) return;
+  const card = e.target.closest(".tweet");
+  const id = card.dataset.id;
+  const act = btn.dataset.act;
+  if (act === "copy") {
+    const tw = tweets.find((x) => x.id === id);
+    const ok = await copyText(tw.text);
+    setStatus(ok ? "Post copiado." : "No se pudo copiar.");
+    return;
+  }
+  if (act === "del") tweets = tweets.filter((x) => x.id !== id);
+  if (act === "up") tweets = move(tweets, id, -1);
+  if (act === "down") tweets = move(tweets, id, 1);
+  persist();
+  renderTweets();
+});
+
+document.querySelectorAll(".tab").forEach((tab) => {
+  tab.addEventListener("click", () => {
+    mode = tab.dataset.mode;
+    document.querySelectorAll(".tab").forEach((t) => t.classList.toggle("active", t === tab));
+    persist();
+  });
+});
+
+$("btn-generate").addEventListener("click", generateThread);
+$("btn-new-item").addEventListener("click", () => {
+  items.push(newItem());
+  persist();
+  renderItems();
+});
+$("btn-add-tweet").addEventListener("click", () => {
+  tweets.push({ id: uid(), text: "" });
+  persist();
+  renderTweets();
+});
+$("btn-clear").addEventListener("click", () => {
+  if (!confirm("¿Vaciar el borrador actual?")) return;
+  items = [newItem(), newItem(), newItem()];
+  tweets = [];
+  $("titulo").value = "";
+  $("cierre").value = "El registro no se elimina. El Archivo Vivo.";
+  persist();
+  renderItems();
+  renderTweets();
+  setStatus("Borrador vaciado.");
+});
+$("btn-copy-all").addEventListener("click", async () => {
+  if (!tweets.length) return setStatus("No hay publicaciones para copiar.");
+  const ok = await copyText(threadText());
+  setStatus(ok ? "Hilo completo copiado." : "No se pudo copiar.");
+});
+$("btn-export").addEventListener("click", () => {
+  const blob = new Blob([threadText()], { type: "text/plain;charset=utf-8" });
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(blob);
+  a.download = `archivo-vivo-${$("fecha").value || "borrador"}.txt`;
+  a.click();
+  URL.revokeObjectURL(a.href);
+});
+
+["fecha", "titulo", "cierre"].forEach((id) => {
+  $(id).addEventListener("input", persist);
+});
+
+document.querySelectorAll("[data-tpl]").forEach((btn) => {
+  btn.addEventListener("click", () => {
+    const fecha = fmtDate($("fecha").value);
+    const titulo = $("titulo").value.trim();
+    const map = {
+      opener: `ARCHIVO DEL DÍA\n${fecha}${titulo ? "\n" + titulo : ""}\nRegistro permanente. Lo que las instituciones hacen — no lo que dicen.`,
+      firma: "El registro no se elimina. El Archivo Vivo.",
+      pregunta: "¿Qué revela este movimiento institucional cuando se lo lee sin la etiqueta del día? El registro no se elimina."
+    };
+    tweets.push({ id: uid(), text: map[btn.dataset.tpl] });
+    persist();
+    renderTweets();
+  });
+});
+
+restore();
+renderItems();
+renderTweets();
+</script>
+</body>
+</html>
