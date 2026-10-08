@@ -14,7 +14,7 @@ Escándalo de fraude bancario masivo. Daniel Vorcaro, accionista mayoritario del
 ### Crisis electoral y colapso institucional — Perú
 Terceras elecciones en 2026. Corrupción identificada como principal problema por 59,6% de encuestados (octubre 2025-marzo 2026), por encima de la delincuencia. El ciclo electoral permanente evidencia erosión institucional incapaz de producir legitimidad. Cada nuevo llamado a urnas reproduce el mismo patrón: candidatos sin posibilidad de gobernar, instituciones vacías de capacidad ejecutiva.
 
-**Fuente:** [Infobea — Perú vuelve a las urnas por tercera vez en 2026](https://www.infobea.com/peru/2026/10/04/peru-vuelve-a-las-urnas-por-tercera-vez-en-2026-un-pais-entre-el-crimen-la-corrupcion-y-la-amenaza-de-el-nino/)
+**Fuente:** [Infobae — Perú vuelve a las urnas por tercera vez en 2026](https://www.infobae.com/peru/2026/10/04/peru-vuelve-a-las-urnas-por-tercera-vez-en-2026-un-pais-entre-el-crimen-la-corrupcion-y-la-amenaza-de-el-nino/)
 
 ### Operación Enjambre — México
 Estrategia federal contra redes de complicidad y corrupción policial. Sumó 14 alcaldes aprehendidos al extender cobertura al sur del país. La captura municipal de criminales evidencia que la infiltración no comienza en la cúpula: prospera donde la autoridad local concentra dinero público sin fiscalización.
@@ -24,24 +24,24 @@ Estrategia federal contra redes de complicidad y corrupción policial. Sumó 14 
 ### Expulsión de extranjeros con antecedentes — Chile/Perú/Colombia
 Chile expulsó a 40 ciudadanos extranjeros (32 colombianos, 8 peruanos) con asuntos pendientes en justicia, trasladados hacia sus países de origen. La operación visibiliza el flujo de actores criminales entre jurisdicciones y la capacidad limitada de gobiernos vecinos para procesarlos.
 
-**Fuente:** [Infobea — Chile expulsó a otros 40 extranjeros con destino a Colombia y Perú](https://www.infobea.com/america/america-latina/2026/10/01/chile-expulso-a-otros-40-extranjeros-con-destino-a-colombia-y-peru/)
+**Fuente:** [Infobae — Chile expulsó a otros 40 extranjeros con destino a Colombia y Perú](https://www.infobae.com/america/america-latina/2026/10/01/chile-expulso-a-otros-40-extranjeros-con-destino-a-colombia-y-peru/)
 
 ### Infiltración del crimen en seguridad — España/Europa
 La fiscal delegada antidroga de Andalucía reporta que corrupción del crimen organizado "avanza a pasos agigantados" en cuerpos de seguridad, puertos y aeropuertos. El patrón: la criminalidad organizada no necesita derrotar al Estado, solo permearlo desde adentro.
 
-**Fuente:** [Infobea — Expertos alertan del aumento de la corrupción ligada al crimen organizado](https://www.infobea.com/espana/agencias/2026/10/03/expertos-alertan-del-aumento-de-la-corrupcion-ligada-al-crimen-organizado/)
+**Fuente:** [Infobae — Expertos alertan del aumento de la corrupción ligada al crimen organizado](https://www.infobae.com/espana/agencias/2026/10/03/expertos-alertan-del-aumento-de-la-corrupcion-ligada-al-crimen-organizado/)
 
 ---
 
 ## 07.10.2026
 
 ### Redes de corrupción penitenciaria — Chile
-Álex Vega, exdirector de Gendarmería, formalizado por encabezar organización criminal dentro del recinto Santiago Uno. La Fiscalía lo acusa de haber instalado redes de corrupción sistemática en el penal. Se solicitó prisión preventiva. El escenario: una institución cuya capacidad formal es custodiar reclusos se convierte en infraestructura criminal mediante sus propios funcionarios.
+Álex Vega, formalizado por encabezar organización criminal dentro del recinto Santiago Uno. La Fiscalía lo acusa de haber instalado redes de corrupción sistemática en el penal. Se solicitó prisión preventiva. El escenario: una institución cuya capacidad formal es custodiar reclusos se convierte en infraestructura criminal mediante sus propios funcionarios.
 
 **Fuente:** [Emol — Formalizan a Álex Vega y fiscalía lo acusa de permitir instalación de "redes de corrupción"](https://www.emol.com/noticias/Nacional/2026/10/05/1213295/alex-vega-gendarmeria-corrupcion.html)
 
 ### Diplomacia capturada — Chile
-Gabriel Zaliasnik, embajador de Chile en Israel, imputado por irregularidades en nombramientos judicales. Su caso se vincula al Caso Audios. La Cancillería aún evalúa su continuidad, mientras la oposición demanda su renuncia inmediata. El patrón: la corrupción no distingue entre instituciones penitenciarias y diplomáticas; ambas son territorio de captura.
+Gabriel Zaliasnik, embajador de Chile en Israel, imputado por irregularidades en nombramientos judiciales. Su caso se vincula al Caso Audios. La Cancillería aún evalúa su continuidad, mientras la oposición demanda su renuncia inmediata. El patrón: la corrupción no distingue entre instituciones penitenciarias y diplomáticas; ambas son territorio de captura.
 
 **Fuente:** [Prensa Latina — Imputado embajador de Chile en Israel en caso de corrupción](https://www.prensa-latina.cu/2026/10/06/imputado-embajador-de-chile-en-israel-en-caso-de-corrupcion/)
 
@@ -53,4 +53,4 @@ Daniel Vorcaro, banquero responsable del escándalo Banco Master (fraude superio
 ### Captura del Estado mediante rescates — España
 José Luis Rodríguez Zapatero, expresidente del Gobierno español, citado como imputado por organización criminal, tráfico de influencias y falsedad en la causa del rescate a la aerolínea Plus Ultra. El antecedente: en 2021, durante la pandemia, el Ejecutivo canalizó fondos públicos hacia esta aerolínea que luego colapsó. La estructura: fondos públicos como puerta de entrada a redes que conectan política, finanzas y criminalidad.
 
-**Fuente:** [Bloomberg — El colapso de Banco Master altera la carrera presidencial entre Lula y Flávio Bolsonaro](https://www.bloomberg.com/news/features/2026-05-20/brasil-colapso-de-banco-master-golpea-campana-de-flavio-bolsonaro)
+**Fuente:** [Orain — Noticias de presuntos casos de corrupción política](https://orain.eus/es/tag/corrupcion-politica/)
