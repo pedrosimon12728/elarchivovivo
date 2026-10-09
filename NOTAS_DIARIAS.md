@@ -54,3 +54,32 @@ Daniel Vorcaro, banquero responsable del escándalo Banco Master (fraude superio
 José Luis Rodríguez Zapatero, expresidente del Gobierno español, citado como imputado por organización criminal, tráfico de influencias y falsedad en la causa del rescate a la aerolínea Plus Ultra. El antecedente: en 2021, durante la pandemia, el Ejecutivo canalizó fondos públicos hacia esta aerolínea que luego colapsó. La estructura: fondos públicos como puerta de entrada a redes que conectan política, finanzas y criminalidad.
 
 **Fuente:** [Orain — Noticias de presuntos casos de corrupción política](https://orain.eus/es/tag/corrupcion-politica/)
+
+---
+
+## 08.10.2026
+
+### Segundo desafuero por corrupción — Chile
+La Corte de Apelaciones de Puerto Montt acogió por unanimidad, el 6 de octubre, el desafuero del senador Miguel Ángel Calisto. La Fiscalía acusa a ocho imputados por fraude al Fisco y fraude de subvenciones, y para Calisto pide 12 años de presidio.
+
+**Fuente:** [El Desconcierto — Senador Miguel Ángel Calisto: el historial judicial que lo mantiene con un segundo desafuero por corrupción](https://eldesconcierto.cl/actualidad/senador-miguel-angel-calisto-el-historial-judicial-que-lo-mantiene-un-segundo-desafuero-corrupcion-n5462906)
+
+### Operación Castillo de Naipes — Chile
+Un exdirector de finanzas de la Municipalidad de Colbún (Región del Maule) quedó en prisión preventiva, formalizado por fraude al fisco reiterado, cohecho y asociación criminal. Los primeros detenidos del caso cayeron el 5 de octubre.
+
+**Fuente:** [La Tercera — Exdirector de finanzas de Municipalidad de Colbún queda en prisión preventiva](https://www.latercera.com/nacional/noticia/exdirector-de-finanzas-de-municipalidad-de-colbun-queda-en-prision-preventiva-en-caso-de-corrupcion-en-region-del-maule/)
+
+### Exministro acusado de corrupción muere de un disparo — Guatemala
+Javier Maldonado Quiñónez, exministro de Comunicaciones, murió el 6 de octubre por un disparo en su casa. El gobierno de Bernardo Arévalo lo había denunciado en 2024 por malversación en la construcción de un hospital en Huehuetenango. La hipótesis preliminar de los investigadores es un "posible suicidio, por establecer".
+
+**Fuente:** [Infobae — Quién era Javier Maldonado](https://www.infobae.com/guatemala/2026/10/07/quien-era-javier-maldonado-el-exministro-guatemalteco-senalado-por-fraude-y-trata-de-personas-que-fallecio-en-extranas-circunstancias/)
+
+### 16 exministros implicados en casos de corrupción — Sri Lanka
+La Comisión Anticorrupción detuvo el 7 de octubre al exministro Rohitha Bogollagama tras su declaración. Al día siguiente, el viceministro de Seguridad Pública informó al Parlamento que 16 exministros del gabinete aparecen implicados en casos de soborno y corrupción investigados entre 2024 y 2026.
+
+**Fuentes:** [Newswire — Former Minister Rohitha Bogollagama arrested](https://newswire.lk/2026/10/07/former-minister-rohitha-bogollagama-arrested-by-bribery-commission) · [Newswire — 16 former Cabinet Ministers implicated](https://newswire.lk/2026/10/08/16-former-cabinet-ministers-among-those-implicated-in-corruption-cases-watagala)
+
+### Exministros de la era Orbán detenidos — Hungría
+Un juez dejó en prisión preventiva al exministro de Cultura Balázs Hankó, investigado por presunto mal uso de subvenciones culturales del Estado. En la misma semana fueron detenidos otros dos exministros, dentro de una campaña contra la corrupción de los años de Orbán. Todos niegan los cargos.
+
+**Fuente:** [Balkan Insight — Operation Purgatory Snares Former Hungarian Ministers](https://balkaninsight.com/2026/10/02/democracy-digest-operation-purgatory-snares-former-hungarian-ministers/rd/)
