@@ -83,3 +83,32 @@ La Comisión Anticorrupción detuvo el 7 de octubre al exministro Rohitha Bogoll
 Un juez dejó en prisión preventiva al exministro de Cultura Balázs Hankó, investigado por presunto mal uso de subvenciones culturales del Estado. En la misma semana fueron detenidos otros dos exministros, dentro de una campaña contra la corrupción de los años de Orbán. Todos niegan los cargos.
 
 **Fuente:** [Balkan Insight — Operation Purgatory Snares Former Hungarian Ministers](https://balkaninsight.com/2026/10/02/democracy-digest-operation-purgatory-snares-former-hungarian-ministers/rd/)
+
+---
+
+## 09.10.2026
+
+### Causa por corrupción judicial cambia de fiscalía — Chile
+La investigación por corrupción judicial en Los Ángeles pasó de la Fiscalía de Ñuble a la Fiscalía Regional del Maule, tras la inhabilidad del fiscal regional de Ñuble. La primera intervención del Maule será en noviembre, para la formalización del exfiscal Rodrigo Durán. Cuando el investigado viene del propio sistema, la institución debe trasladar la causa a otra región para poder investigarla.
+
+**Fuente:** [BioBioChile — Causa por corrupción judicial en Los Ángeles fue trasladada desde Ñuble a Fiscalía Regional del Maule](https://www.biobiochile.cl/noticias/nacional/chile/2026/10/08/causa-por-corrupcion-judicial-en-los-angeles-fue-trasladada-desde-nuble-a-fiscalia-regional-del-maule.shtml)
+
+### Desvío de fondos de bomberos en pandemia — Colombia
+Miguel Quintero fue imputado por el presunto desvío de recursos en seis contratos con los Bomberos de Itagüí, por más de $17.000 millones firmados durante la pandemia. La investigación le atribuye el 15% de lo desviado. En la audiencia se reveló un testimonio que menciona al exsenador Carlos Andrés Trujillo. La emergencia sanitaria volvió a operar como vía para eludir los controles de contratación.
+
+**Fuente:** [Infobae — Revelan nuevas conversaciones que comprometerían a Miguel Quintero y sus "socios"](https://www.infobae.com/colombia/2026/10/07/revelan-nuevas-conversaciones-que-comprometerian-a-miguel-quintero-y-sus-socios-en-caso-de-corrupcion-en-medellin-un-exgobernador-fue-salpicado/)
+
+### Obra vial adjudicada a empresa familiar — Argentina
+La diputada Marcela Pagano denunció al exsecretario de Transporte Franco Mogetta por la adjudicación de un tramo de la ruta Rosario–Córdoba a una empresa de su familia. La adjudicación se concretó cuando Mogetta ya había dejado el cargo. Es una denuncia; aún no hay imputación.
+
+**Fuente:** [Resumen Latinoamericano — Denuncian a un exsecretario de Transporte por la adjudicación de un corredor vial a una empresa de su familia](https://www.resumenlatinoamericano.org/2026/10/09/argentina-denuncian-a-un-exsecretario-de-transporte-por-la-adjudicacion-de-un-corredor-vial-a-una-empresa-de-su-familia)
+
+### Dirigentes del fútbol acusados de corrupción y arreglo de partidos — Nepal
+Las autoridades presentaron cargos contra cuatro dirigentes suspendidos de la Federación de Fútbol de Nepal, entre ellos su presidente, Pankaj Bikram Nembang, por irregularidades financieras, fraude, corrupción y arreglo de partidos. Se busca recuperar 9,3 millones de rupias. Dos están detenidos; Nembang y otro dirigente siguen prófugos. La federación está suspendida por la FIFA.
+
+**Fuente:** [myRepublica — Corruption charges deepen crisis in Nepali football amid FIFA suspension](https://myrepublica.nagariknetwork.com/news/corruption-charges-deepen-crisis-in-nepali-football-amid-fifa-suspension-52-32.html)
+
+### 158 funcionarios detenidos en un mes — Arabia Saudita
+La autoridad anticorrupción Nazaha informó el 1 de octubre que durante septiembre investigó a 381 funcionarios y detuvo a 158 por soborno y abuso de cargo, en los ministerios del Interior, Justicia, Educación y Vivienda. Algunos quedaron en libertad bajo fianza.
+
+**Fuente:** [Saudi Gazette — Nazaha investigates 381 employees, arrests 158 over corruption charges](https://saudigazette.com.sa/article/665026/saudi-arabia/nazaha-investigates-381-employees-arrests-158-over-corruption-charges)
