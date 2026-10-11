@@ -112,3 +112,22 @@ Las autoridades presentaron cargos contra cuatro dirigentes suspendidos de la Fe
 La autoridad anticorrupción Nazaha informó el 1 de octubre que durante septiembre investigó a 381 funcionarios y detuvo a 158 por soborno y abuso de cargo, en los ministerios del Interior, Justicia, Educación y Vivienda. Algunos quedaron en libertad bajo fianza.
 
 **Fuente:** [Saudi Gazette — Nazaha investigates 381 employees, arrests 158 over corruption charges](https://saudigazette.com.sa/article/665026/saudi-arabia/nazaha-investigates-381-employees-arrests-158-over-corruption-charges)
+
+---
+
+## 10.10.2026
+
+### Exfiscal general en prisión preventiva por proteger al narcotráfico — Bolivia
+Un juez envió al exfiscal general Roger Mariaca a la cárcel de Cantumarca (Potosí) por 180 días, acusado de liderar una organización criminal que protegía al narcotráfico. Al día siguiente, otro juzgado le dictó una segunda prisión preventiva de 180 días por legitimación de ganancias ilícitas. En el mismo operativo fueron detenidas otras 13 personas, incluidos tres fiscales. Mariaca niega los cargos. Según el gobierno, el órgano encargado de perseguir el delito operaba como su escudo.
+
+**Fuentes:** [Infobae — Dictaron prisión preventiva para el ex fiscal general de Bolivia](https://www.infobae.com/america/america-latina/2026/10/04/dictaron-prision-preventiva-para-el-ex-fiscal-general-de-bolivia-acusado-de-proteger-al-narcotrafico/) · [Infobae — Segunda prisión preventiva para Roger Mariaca](https://www.infobae.com/america/america-latina/2026/10/05/un-juez-ordena-una-segunda-prision-preventiva-para-el-exfiscal-general-de-bolivia-roger-mariaca-por-legitimacion-de-ganancias-ilicitas/)
+
+### Municipio investigado por sobreprecios en pavimento — Argentina
+La Fiscalía de Cuentas cerró en mayo una investigación sobre el municipio de Santa Elena (Entre Ríos) por un programa nacional que financió pavimento, y concluyó que existió "una matriz de presuntos sobreprecios". Según el artículo, el intendente Rossi no responde a los requerimientos del Tribunal de Cuentas ni de la Justicia.
+
+**Fuente:** [Análisis Digital — "Queremos que todos los años nos controlen", dijo Rossi](https://www.analisisdigital.com.ar/provinciales/2026/10/03/queremos-que-todos-los-anos-nos-controlen-dijo-rossi-el-tdc-y-la-justicia-lo-intentan-pero-no-responde)
+
+### Jefe de comisaría detenido recibiendo un soborno — India
+La Oficina Anticorrupción de Arunachal Pradesh detuvo al subinspector Vijay Kumar, jefe de la comisaría de Chongkham, cuando recibía un soborno de 65.000 rupias en una trampa armada tras una denuncia.
+
+**Fuente:** [Northeast Today — Arunachal ACB arrests Chongkham police OC](https://northeasttoday.in/northeast/arunachal-pradesh/arunachal-anti-corruption-bureau-acb-arrests-chongkham-police-oc-for-allegedly-accepting-%E2%82%B965000-bribe)
