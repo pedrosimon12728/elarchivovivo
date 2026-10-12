@@ -131,3 +131,27 @@ La Fiscalía de Cuentas cerró en mayo una investigación sobre el municipio de 
 La Oficina Anticorrupción de Arunachal Pradesh detuvo al subinspector Vijay Kumar, jefe de la comisaría de Chongkham, cuando recibía un soborno de 65.000 rupias en una trampa armada tras una denuncia.
 
 **Fuente:** [Northeast Today — Arunachal ACB arrests Chongkham police OC](https://northeasttoday.in/northeast/arunachal-pradesh/arunachal-anti-corruption-bureau-acb-arrests-chongkham-police-oc-for-allegedly-accepting-%E2%82%B965000-bribe)
+
+---
+
+## 11.10.2026
+
+### El exfiscal que acusó a Netanyahu declara en su juicio — Israel
+El exfiscal general Avichai Mandelblit, quien acusó a Benjamin Netanyahu por fraude y abuso de confianza, comenzó el 11 de octubre a declarar como testigo de la defensa. La defensa sostiene que la policía investigó más allá de lo que Mandelblit autorizó; él responde que aprobó todas las diligencias principales. La defensa pidió que su declaración se extienda hasta el 22 de octubre, cinco días antes de las elecciones del 27. El acusado convierte el juicio en campaña y sienta al fiscal en el banquillo.
+
+**Fuente:** [Times of Israel — Ex-AG Mandelblit to begin testimony in Netanyahu's corruption trial](https://www.timesofisrael.com/liveblog_entry/ex-ag-mandelblit-to-begin-testimony-in-netanyahus-corruption-trial-pm-expected-in-court)
+
+### Socio de Alex Saab habría sido extraditado a EE.UU. — Venezuela / Colombia
+Según Infobae, el colombiano Álvaro Pulido, socio de Alex Saab, que estaba preso en Venezuela, habría sido extraditado a Estados Unidos. La Fiscalía estadounidense le atribuye sobornos a funcionarios venezolanos para obtener contratos de alimentos y de exportación de petróleo. La extradición no está confirmada oficialmente.
+
+**Fuente:** [Infobae — Álvaro Pulido habría sido extraditado a los Estados Unidos](https://infobae.com/colombia/2026/10/11/alvaro-pulido-amigo-y-complice-de-alex-saab-habria-sido-extraditado-a-los-estados-unidos-el-colombiano-estaba-preso-en-venezuela)
+
+### CDE se querella contra el alcalde de Colbún — Chile
+El Consejo de Defensa del Estado presentó una querella por fraude al fisco y falsificación de instrumento público contra el alcalde de Colbún, Pedro Pablo Muñoz Oses, y otras siete personas. Según el CDE, el presupuesto del festival de febrero de 2023 subió de $104 a $192 millones sin aprobación del Concejo, y parte de los honorarios de dos abogados externos ($2,5 millones mensuales cada uno) habría financiado la defensa personal del alcalde. El Juzgado de Garantía de Linares decretó la prohibición de celebrar actos y contratos.
+
+**Fuente:** [Linares en Línea — CDE se querella contra alcalde de Colbún y otras siete personas por fraude al fisco](https://www.linaresenlinea.cl/2026/10/01/cde-se-querella-contra-alcalde-de-colbun-y-otras-siete-personas-por-fraude-al-fisco/)
+
+### PPK sale del Perú tras tres años de arresto domiciliario — Perú
+El expresidente Pedro Pablo Kuczynski viajó al extranjero para visitar a su esposa enferma y prometió volver. Pasó los últimos tres años con arresto domiciliario mientras era investigado. En mayo, un juez sobreseyó la causa por los US$300.000 que, según la Fiscalía, recibió de la caja paralela de Odebrecht para su campaña de 2011.
+
+**Fuente:** [Infobae — PPK se va del Perú para visitar a su esposa](https://infobae.com/peru/2026/10/11/ppk-se-va-del-peru-para-visitar-a-su-esposa-bastante-enferma-pero-promete-volver-de-todas-maneras)
