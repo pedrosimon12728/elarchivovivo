@@ -155,3 +155,27 @@ El Consejo de Defensa del Estado presentó una querella por fraude al fisco y fa
 El expresidente Pedro Pablo Kuczynski viajó al extranjero para visitar a su esposa enferma y prometió volver. Pasó los últimos tres años con arresto domiciliario mientras era investigado. En mayo, un juez sobreseyó la causa por los US$300.000 que, según la Fiscalía, recibió de la caja paralela de Odebrecht para su campaña de 2011.
 
 **Fuente:** [Infobae — PPK se va del Perú para visitar a su esposa](https://infobae.com/peru/2026/10/11/ppk-se-va-del-peru-para-visitar-a-su-esposa-bastante-enferma-pero-promete-volver-de-todas-maneras)
+
+---
+
+## 12.10.2026
+
+### Alcalde, su esposa y 22 personas detenidos por sobornos en licitaciones — Israel
+La policía detuvo al alcalde de Kfar Saba, a su esposa y a otras 22 personas, sospechosos de recibir sobornos para favorecer adjudicaciones en licitaciones municipales. Según la policía, empresarios y delincuentes pagaron cientos de miles de shékels a la pareja para ganar contratos por decenas de millones. La alcaldía como ventanilla de cobro para el crimen organizado.
+
+**Fuente:** [Haaretz — Central Israeli Mayor, Wife, 22 Others, Arrested in Bribery and Corruption Investigation](https://www.haaretz.com/israel-news/israel-crime/2026-10-12/ty-article/.premium/central-israeli-mayor-wife-22-others-arrested-in-bribery-and-corruption-probe/000001a1-2e95-d998-abe5-3fbf23700000)
+
+### La Corte Suprema decide si reabre la causa contra Rodríguez Larreta — Argentina
+La Corte Suprema convocó a conjueces para resolver si reabre la causa por corrupción contra Horacio Rodríguez Larreta, exjefe de Gobierno porteño, por la obra del Paseo del Bajo.
+
+**Fuente:** [La Nación — La Corte llamó a conjueces para decidir si reabre una causa por corrupción contra Rodríguez Larreta](https://www.lanacion.com.ar/politica/la-corte-llamo-a-conjueces-para-decidir-si-reabre-una-causa-por-corrupcion-contra-rodriguez-larreta-nid12102026/)
+
+### Caso Encuentro: el juicio pasa a nuevos jueces — Ecuador
+Nuevos jueces conocerán la etapa de juicio del caso Encuentro. Leonardo Cortázar, Hernán Luque y otras dos acusadas aún no han sido juzgados. Cada cambio de tribunal posterga el juicio.
+
+**Fuente:** [KCH FM — Nuevos jueces conocerán la etapa de juicio en el caso Encuentro](https://kchcomunicacion.com/2026/10/12/nuevos-jueces-conoceran-la-etapa-de-juicio-en-el-caso-encuentro-leonardo-cortazar-hernan-luque-y-otras-dos-acusadas-siguen-sin-ser-juzgados/)
+
+### Detienen a alto mando policial por lavado de dinero — India
+La Dirección de Control (Enforcement Directorate) detuvo a Harcharan Singh Bhullar, DIG suspendido de la Policía de Punjab, en una causa por lavado de dinero vinculada a patrimonio desproporcionado a sus ingresos. Un tribunal concedió ocho días de custodia. La investigación nace de dos denuncias por corrupción presentadas por la CBI y la oficina anticorrupción de Chandigarh.
+
+**Fuente:** [ANI — ED arrests suspended Punjab DIG Harcharan Singh Bhullar](https://www.aninews.in/news/national/general-news/ed-arrests-suspended-punjab-dig-harcharan-singh-bhullar-in-alleged-corruption-disproportionate-assets-case-pmla-court-grants-8-day-custody20261012173215)
