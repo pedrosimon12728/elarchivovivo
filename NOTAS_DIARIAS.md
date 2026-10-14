@@ -179,3 +179,32 @@ Nuevos jueces conocerán la etapa de juicio del caso Encuentro. Leonardo Cortáz
 La Dirección de Control (Enforcement Directorate) detuvo a Harcharan Singh Bhullar, DIG suspendido de la Policía de Punjab, en una causa por lavado de dinero vinculada a patrimonio desproporcionado a sus ingresos. Un tribunal concedió ocho días de custodia. La investigación nace de dos denuncias por corrupción presentadas por la CBI y la oficina anticorrupción de Chandigarh.
 
 **Fuente:** [ANI — ED arrests suspended Punjab DIG Harcharan Singh Bhullar](https://www.aninews.in/news/national/general-news/ed-arrests-suspended-punjab-dig-harcharan-singh-bhullar-in-alleged-corruption-disproportionate-assets-case-pmla-court-grants-8-day-custody20261012173215)
+
+---
+
+## 13.10.2026
+
+### Caso Audios: la preparación del juicio oral se posterga hasta marzo de 2027 — Chile
+La audiencia de preparación de juicio oral fijada para el 13 de octubre no se realizó: el 4° Juzgado de Garantía de Santiago la reprogramó para el 1 de marzo de 2027, luego de que los hermanos Daniel y Ariel Sauer cambiaran de defensa y los nuevos abogados pidieran tiempo para revisar una causa de más de 12.000 páginas. La fiscal regional Lorena Parra acusó "maniobras dilatorias". El tribunal rechazó los pedidos de Luis Hermosilla: separación de causas, devolución de sus dispositivos y una audiencia aparte sobre la legalidad de la grabación. La Fiscalía pide 17 años para Hermosilla y 20 para Daniel Sauer. Un cambio de defensa basta para ganar casi cinco meses en el principal caso de corrupción judicial del país.
+
+**Fuentes:** [El Dínamo — Caso Audios: reprograman audiencia contra imputados para 2027](https://www.eldinamo.cl/pais/2026/10/13/caso-audios-reprograman-audiencia-contra-imputados-para-2027-y-rechazan-solicitudes-de-hermosilla/) · [La Tercera — Preparación de juicio oral contra Luis Hermosilla se posterga para 2027](https://www.latercera.com/nacional/noticia/preparacion-de-juicio-oral-contra-luis-hermosilla-por-caso-audio-se-posterga-para-2027/)
+
+### Incautan casi US$1 millón ligado al exfiscal Mariaca — Bolivia
+En 11 operaciones policiales vinculadas al exfiscal general Roger Mariaca se incautaron más de 10 millones de bolivianos, unos US$909.000. Mariaca permanece en prisión preventiva en Potosí.
+
+**Fuente:** [Prensa Latina — Decomisan en Bolivia fondos financieros ligados a exfiscal Mariaca](https://www.prensa-latina.cu/2026/10/13/decomisan-en-bolivia-fondos-financieros-ligados-a-exfiscal-mariaca/)
+
+### Funcionarios de la Fiscalía detenidos por simular una muerte — México
+La Fiscalía de Michoacán detuvo a cuatro de sus servidores públicos y a un exfuncionario, acusados de registrar el fallecimiento de una persona que seguía con vida, con documentos de un supuesto homicidio culposo, para cobrar un seguro. La institución que certifica los hechos usó esa facultad para fabricarlos.
+
+**Fuentes:** [Tribuna — Arrestan a cinco servidores de la Fiscalía de Michoacán](https://tribuna.com.mx/seguridad/2026/10/13/arrestan-a-cinco-servidores-de-la-fiscalia-de-michoacan-simularon-una-muerte-para-cobrar-seguro_701621/) · [Telediario — Servidores públicos de Michoacán detenidos por falsificar muerte](https://www.telediario.mx/policia/servidores-publicos-de-michoacan-son-detenidos-por-falsificar-muerte)
+
+### Detienen a viceministro de Industria por soborno — Irak
+Según la agencia oficial iraquí, fue detenido Nasser Kadhim Jabr, viceministro de Industria y Minerales, acusado de recibir un soborno. No se informó el monto. Es el último alto cargo alcanzado por la campaña anticorrupción en curso.
+
+**Fuente:** [964media — Deputy industry minister arrested on suspicion of taking a bribe](https://en.964media.com/53708)
+
+### Exsecretario de Finanzas de Michoacán detenido por red de extorsión — México
+El 8 de octubre fue detenido Luis Miranda Contreras, extesorero y exsecretario de Finanzas de Michoacán (2012-2013). Según la Fiscalía, encabezaba una red de extorsión que clonaba voces de ministros y gobernadores.
+
+**Fuente:** [Proceso — Detienen a exsecretario de Finanzas de Fausto Vallejo](https://www.proceso.com.mx/nacional/2026/10/8/detienen-a-exsecretario-de-finanzas-de-fausto-vallejo-por-clonar-voces-de-ministros-y-gobernadores-p-381471.html)
