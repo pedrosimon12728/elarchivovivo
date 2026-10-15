@@ -208,3 +208,22 @@ Según la agencia oficial iraquí, fue detenido Nasser Kadhim Jabr, viceministro
 El 8 de octubre fue detenido Luis Miranda Contreras, extesorero y exsecretario de Finanzas de Michoacán (2012-2013). Según la Fiscalía, encabezaba una red de extorsión que clonaba voces de ministros y gobernadores.
 
 **Fuente:** [Proceso — Detienen a exsecretario de Finanzas de Fausto Vallejo](https://www.proceso.com.mx/nacional/2026/10/8/detienen-a-exsecretario-de-finanzas-de-fausto-vallejo-por-clonar-voces-de-ministros-y-gobernadores-p-381471.html)
+
+---
+
+## 14.10.2026
+
+### Venta de puestos en escuelas públicas: prisión preventiva — Ecuador
+Un juez de Pichincha ordenó prisión preventiva para un funcionario del Ministerio de Educación acusado de cobrar por puestos de trabajo en planteles. Según el ministro del Interior, John Reimberg, él y otros dos investigados exigían entre US$1.500 y US$5.000 por gestionar cada empleo; al funcionario principal se le atribuyen movimientos injustificados por cerca de US$1 millón. La investigación partió de una alerta ciudadana. El cargo público convertido en mercancía.
+
+**Fuentes:** [ABC Color — Prisión preventiva para un funcionario de Ecuador detenido por 'vender' puestos de trabajo](https://www.abc.com.py/tecnologia/2026/10/14/prision-preventiva-para-un-funcionario-de-ecuador-detenido-por-vender-puestos-de-trabajo/) · [Primicias — Una alerta ciudadana activó una investigación por presunto cohecho en el Ministerio de Educación](https://www.primicias.ec/politica/jose-neira-corrupcion-ministerio-educacion-allanamiento-detenidos-venta-titulos-puestos-cohecho-134874/)
+
+### EE.UU. confirma la captura de Álvaro Pulido, socio de Alex Saab — Venezuela / Colombia
+El Departamento de Justicia de EE.UU. confirmó el arresto de Álvaro Pulido Vargas, acusado en dos causas federales de lavar más de US$2.000 millones vinculados a esquemas de sobornos al gobierno venezolano. Su comparecencia inicial estaba fijada para el 13 de octubre en el Distrito Sur de Florida. Confirma lo informado como no oficial el 11.10.
+
+**Fuentes:** [U.S. Department of Justice — Homeland Security Task Force arrests Alvaro Pulido Vargas](https://www.justice.gov/opa/pr/homeland-security-task-force-arrests-alvaro-pulido-vargas-face-charges-multibillion-dollar) · [Infobae — Estados Unidos confirma la captura de Álvaro Pulido](https://www.infobae.com/colombia/2026/10/11/estados-unidos-confirma-la-captura-de-alvaro-pulido-empresario-colombiano-socio-de-alex-saab-por-lavado-de-dinero/)
+
+### Detienen al hermano del jefe de la agencia de desastres — Indonesia
+La comisión anticorrupción KPK detuvo a cinco sospechosos por presunta corrupción en un proyecto de compras de la Agencia Nacional de Mitigación de Desastres (BNPB), entre ellos el hermano menor del jefe de la agencia. La KPK aún no ha revelado qué compra investiga.
+
+**Fuente:** [The Jakarta Post — Five arrested for corruption at disaster agency amid funding concerns](https://thejakartapost.com/indonesia/2026/10/15/five-arrested-for-corruption-at-disaster-agency-amid-funding-concerns)
