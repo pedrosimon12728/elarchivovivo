@@ -227,3 +227,27 @@ El Departamento de Justicia de EE.UU. confirmó el arresto de Álvaro Pulido Var
 La comisión anticorrupción KPK detuvo a cinco sospechosos por presunta corrupción en un proyecto de compras de la Agencia Nacional de Mitigación de Desastres (BNPB), entre ellos el hermano menor del jefe de la agencia. La KPK aún no ha revelado qué compra investiga.
 
 **Fuente:** [The Jakarta Post — Five arrested for corruption at disaster agency amid funding concerns](https://thejakartapost.com/indonesia/2026/10/15/five-arrested-for-corruption-at-disaster-agency-amid-funding-concerns)
+
+---
+
+## 15.10.2026
+
+### Operación Apocalipsis II: la cónyuge de Álex Vega a prisión preventiva — Chile
+La Corte de Apelaciones de San Miguel revocó el arresto domiciliario de Grace Bascur, cónyuge del exlíder de la Anfup Álex Vega, y decretó su prisión preventiva por lavado de activos, acogiendo la apelación de la Fiscalía. El tribunal rechazó el argumento de la defensa: "el hecho de tener hijos a su cuidado no fue óbice para incurrir en los hechos materia de la formalización". Vega se mantiene en prisión preventiva en el Repas, imputado por cohecho, lavado de activos y apremios ilegítimos. El dinero de la red penitenciaria no se queda en el funcionario: circula por la familia.
+
+**Fuentes:** [BioBioChile — Corte envía a prisión preventiva a cónyuge de Alex Vega](https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/10/15/corte-envia-a-prision-preventiva-a-conyuge-de-alex-vega-y-mantiene-tras-las-rejas-a-exlider-de-anfup.shtml) · [La Tercera — Operación Apocalipsis II: Fiscalía logra prisión preventiva para Grace Bascur](https://www.latercera.com/nacional/noticia/operacion-apocalipsis-ii-fiscalia-logra-prision-preventiva-para-grace-bascur/)
+
+### Detienen al segundo diputado más votado de Río de Janeiro — Brasil
+La Policía Federal detuvo al diputado estatal electo Márcio Canella (União Brasil) y al exjefe de la Policía Civil de Río, Marcus Amim, por orden del ministro del Supremo Alexandre de Moraes, en la octava fase de la Operación Unha e Carne, que investiga una red de gasolineras usada para ocultar recursos ilícitos. El organismo de inteligencia financiera detectó movimientos por R$7.600 millones (unos US$1.500 millones) en seis años. Se investigan organización criminal armada, lavado de dinero, corrupción y cartel. El político recién electo y el exjefe policial, en la misma red de lavado.
+
+**Fuentes:** [Infobae — Detienen al segundo diputado regional más votado de Río de Janeiro](https://www.infobae.com/america/agencias/2026/10/15/detienen-al-segundo-diputado-regional-mas-votado-de-rio-de-janeiro-por-blanqueo-de-capital/) · [Prensa Latina — Detienen a diputado electo y exjefe policial en Río de Janeiro](https://www.prensa-latina.cu/2026/10/15/detienen-a-diputado-electo-y-exjefe-policial-en-rio-de-janeiro/)
+
+### Exgerente del Banco Central, a prisión por billetes del Bicentenario — Bolivia
+Un tribunal envió a prisión preventiva por cinco meses, en el penal de San Pedro, a Sergio Calisaya Ávila, exgerente de Tesorería del Banco Central de Bolivia, investigado por la compra de un millón de billetes conmemorativos del Bicentenario. El daño al Estado se estima en unos US$360.000.
+
+**Fuente:** [El Diario — Envían a prisión con detención preventiva a exgerente del BCB](https://www.eldiario.net/portal/2026/10/15/envian-a-prision-con-detencion-preventiva-a-exgerente-del-bcb/)
+
+### Sobornos en un contrato de munición de ₹500 crore — India
+La CBI detuvo a Anil Kumar, director ejecutivo de la estatal Munitions India, a su hermano y a un ejecutivo de la proveedora SMPP, en una investigación sobre un contrato de suministro de munición por ₹500 crore. En los allanamientos se incautaron ₹2,23 crore en efectivo. La compra militar, protegida por el secreto de defensa, sigue siendo el contrato más fácil de inflar.
+
+**Fuente:** [News Today — CBI arrests MIL executive director in bribery case](https://newstodaynet.com/2026/10/15/cbi-arrests-mil-executive-director-in-bribery-case)
