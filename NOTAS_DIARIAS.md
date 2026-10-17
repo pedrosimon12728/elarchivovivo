@@ -251,3 +251,27 @@ Un tribunal envió a prisión preventiva por cinco meses, en el penal de San Ped
 La CBI detuvo a Anil Kumar, director ejecutivo de la estatal Munitions India, a su hermano y a un ejecutivo de la proveedora SMPP, en una investigación sobre un contrato de suministro de munición por ₹500 crore. En los allanamientos se incautaron ₹2,23 crore en efectivo. La compra militar, protegida por el secreto de defensa, sigue siendo el contrato más fácil de inflar.
 
 **Fuente:** [News Today — CBI arrests MIL executive director in bribery case](https://newstodaynet.com/2026/10/15/cbi-arrests-mil-executive-director-in-bribery-case)
+
+---
+
+## 16.10.2026
+
+### Funcionario de salud municipal desviaba fondos a cuentas personales — Chile
+La Fiscalía Anticorrupción de O'Higgins obtuvo la prisión preventiva de un funcionario del Departamento de Salud de Placilla, detenido y formalizado por delitos reiterados de corrupción en una investigación junto a la PDI. En la audiencia se expusieron 42 transferencias por $18.550.000 desde cuentas del Departamento de Salud Municipal hacia cuentas personales.
+
+**Fuente:** [El Rancagüino — Funcionario del Departamento de Salud de Placilla fue detenido y formalizado por delitos reiterados de corrupción](https://www.elrancaguino.cl/2026/10/16/funcionario-del-departamento-de-salud-de-placilla-fue-detenido-y-formalizado-por-delitos-reiterados-de-corrupcion/)
+
+### El 71% de los chilenos percibe alta corrupción en el país y en el Estado — Chile
+El Informe N°55 de Claves Ipsos con Chile Transparente (1.000 encuestados, entre el 30 de septiembre y el 2 de octubre) indica que el 71% percibe un alto nivel de corrupción en el país y en el Estado, por debajo del 76% de julio de 2023. La percepción cae a 54% en la región y a 40% en el municipio. La corrupción se percibe lejos, mientras los casos de Colbún, Placilla o el Maule ocurren cerca.
+
+**Fuente:** [Paislobo Prensa — 71% de los chilenos percibe un alto nivel de corrupción en el país y en el Estado](https://www.paislobo.cl/2026/10/71-de-los-chilenos-percibe-un-alto.html)
+
+### Alcalde opositor de Mersin entre 59 detenidos — Turquía
+La policía detuvo al alcalde opositor de Mersin, Vahap Seçer, junto a otras 58 personas, en investigaciones por fraude en compras públicas en tres municipios gobernados por el CHP. La oposición acusa motivación política; el gobierno sostiene que la justicia es independiente. Cuando las investigaciones apuntan solo a municipios opositores, la lucha anticorrupción también sirve para neutralizar rivales.
+
+**Fuente:** [Turkish Minute — Mersin mayor among 59 detained in corruption probes targeting 3 CHP-run municipalities](https://turkishminute.com/2026/10/01/mersin-mayor-among-59-detained-in-corruption-probes-targeting-3-chp-run-municipalities/)
+
+### Detienen a dos funcionarios de educación del distrito de Kisoro — Uganda
+El comandante policial del distrito confirmó la detención del oficial de educación y del oficial de recursos humanos de Kisoro, acusados de corrupción. Las acusaciones aún no han sido probadas ante un tribunal.
+
+**Fuente:** [allAfrica — Two Kisoro District Officials Arrested Over Alleged Corruption](https://allafrica.com/stories/202610150091.html)
