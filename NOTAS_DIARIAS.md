@@ -275,3 +275,22 @@ La policía detuvo al alcalde opositor de Mersin, Vahap Seçer, junto a otras 58
 El comandante policial del distrito confirmó la detención del oficial de educación y del oficial de recursos humanos de Kisoro, acusados de corrupción. Las acusaciones aún no han sido probadas ante un tribunal.
 
 **Fuente:** [allAfrica — Two Kisoro District Officials Arrested Over Alleged Corruption](https://allafrica.com/stories/202610150091.html)
+
+---
+
+## 17.10.2026
+
+### Exfiscal de La Paz designado por Mariaca, a la cárcel por seis meses — Bolivia
+Luis Carlos Torrez, exfiscal departamental de La Paz designado por el exfiscal general Roger Mariaca, fue aprehendido el 15 de octubre. El sábado 17 un juez le dictó seis meses de detención preventiva en la cárcel de San Pedro. Se le investiga por organización criminal y protección al narcotráfico. Su defensa apelará. La causa contra Mariaca alcanza ahora a quienes él mismo nombró.
+
+**Fuentes:** [Opinión — Exfiscal Torrez es enviado a San Pedro y su defensa apela el fallo](https://www.opinion.com.bo/pais/exfiscal-torrez-es-enviado-san-pedro-defensa-apela-fallo/20261017201038997777.html) · [Red Uno — Envían a la cárcel al exfiscal de La Paz Luis Carlos Torrez](https://www.reduno.com.bo/noticias/envian-a-la-carcel-al-exfiscal-de-la-paz-luis-carlos-torrez-tras-audiencia-cautelar-2026101717748)
+
+### Solo el 22% confía en las instituciones que combaten la corrupción — Chile
+La encuesta Claves Ipsos–Chile Transparente (Informe N°55) muestra que apenas el 22% confía en la labor de las instituciones encargadas de combatir la corrupción, frente a un 44% que desconfía. El Congreso es la institución más asociada a corrupción: 70%, contra 10% que la asocia a probidad. No solo se percibe corrupción: tampoco se cree en quienes deben perseguirla.
+
+**Fuente:** [Mirada Sur TV — Encuesta Ipsos: 71% percibe alta corrupción en Chile y el Estado](https://miradasurtv.cl/encuesta-ipsos-71-percibe-alta-corrupcion-en-chile-y-el-estado/)
+
+### Detienen a policía "modelo" por exigir un soborno — Rusia
+En la región de Tula fue detenida una agente de policía presentada como funcionaria ejemplar, acusada de exigir un soborno de 200.000 rublos (unos US$2.400). Un juez ordenó su prisión preventiva por un mes y 29 días.
+
+**Fuente:** [The Moscow Times — Tula's 'Model Police Officer' Arrested Over $2K Bribe](https://www.themoscowtimes.com/2026/10/12/tulas-model-police-officer-arrested-over-2k-bribe-reports-a93954)
