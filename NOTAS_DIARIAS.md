@@ -294,3 +294,17 @@ La encuesta Claves Ipsos–Chile Transparente (Informe N°55) muestra que apenas
 En la región de Tula fue detenida una agente de policía presentada como funcionaria ejemplar, acusada de exigir un soborno de 200.000 rublos (unos US$2.400). Un juez ordenó su prisión preventiva por un mes y 29 días.
 
 **Fuente:** [The Moscow Times — Tula's 'Model Police Officer' Arrested Over $2K Bribe](https://www.themoscowtimes.com/2026/10/12/tulas-model-police-officer-arrested-over-2k-bribe-reports-a93954)
+
+---
+
+## 18.10.2026
+
+### Asesinan a exfiscal que denunciaba la corrupción — Guatemala
+Juan Francisco Solórzano Foppa, de 43 años, fue asesinado a tiros el sábado 17 de octubre mientras dirigía un partido de fútbol en el Campo Marte, en Ciudad de Guatemala. También murió Gustavo Adolfo Aguilar Gamarro, considerado por los investigadores una víctima colateral. Solórzano Foppa fue director de Análisis Criminal del Ministerio Público (2013-2016) y jefe de la SAT (2016-2018), y era conocido por denunciar vínculos entre políticos y estructuras criminales. La policía detuvo a dos hermanos como sospechosos, pero el domingo un juzgado ordenó su liberación por falta de mérito; no quedan detenidos ni sospechosos establecidos. El presidente Bernardo Arévalo y la Embajada de Estados Unidos condenaron el crimen. Un denunciante de la corrupción asesinado y, a un día del crimen, ningún detenido.
+
+**Fuentes:** [Infobae — Autoridades confirman la participación de al menos dos atacantes](https://www.infobae.com/guatemala/2026/10/18/las-autoridades-guatemaltecas-confirman-la-participacion-de-al-menos-dos-atacantes-en-el-asesinato-del-exfiscal-solorzano-foppa/) · [Infobae — Liberan a dos detenidos por el asesinato del exfiscal](https://infobae.com/america/agencias/2026/10/18/liberan-a-dos-detenidos-por-el-asesinato-de-conocido-exfiscal-anticorrupcion-en-guatemala) · [La Jornada — Mataron a tiros al ex fiscal de Guatemala Juan Francisco Solórzano Foppa](https://www.jornada.com.mx/noticia/2026/10/17/mundo/mataron-a-ex-fiscal-de-guatemala-que-denuncio-corrupcion-de-politicos)
+
+### 134 denuncias por corrupción dentro de la policía en ocho meses — Perú
+La detención de seis policías por un presunto robo reabrió el debate sobre la reforma de la Policía Nacional del Perú. Entre enero y agosto de este año se registraron 134 denuncias por corrupción dentro de la institución. El Ministerio Público, junto con la DIVIAC, dirige las investigaciones.
+
+**Fuente:** [La República — Detención de seis policías por presunto robo reaviva debate sobre reforma de la PNP](https://larepublica.pe/politica/2026/10/18/detencion-de-seis-policias-por-presunto-robo-reaviva-debate-sobre-reforma-de-la-pnp-hnews-974772)
