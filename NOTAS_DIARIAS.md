@@ -308,3 +308,27 @@ Juan Francisco Solórzano Foppa, de 43 años, fue asesinado a tiros el sábado 1
 La detención de seis policías por un presunto robo reabrió el debate sobre la reforma de la Policía Nacional del Perú. Entre enero y agosto de este año se registraron 134 denuncias por corrupción dentro de la institución. El Ministerio Público, junto con la DIVIAC, dirige las investigaciones.
 
 **Fuente:** [La República — Detención de seis policías por presunto robo reaviva debate sobre reforma de la PNP](https://larepublica.pe/politica/2026/10/18/detencion-de-seis-policias-por-presunto-robo-reaviva-debate-sobre-reforma-de-la-pnp-hnews-974772)
+
+---
+
+## 19.10.2026
+
+### Alcalde de Río Bueno formalizado por recibir sobornos — Chile
+La Fiscalía formalizó al alcalde de Río Bueno, Luis Reyes, por cohecho y lavado de activos. Se le atribuye haber recibido al menos $26 millones en sobornos de proveedores que se adjudicaron contratos con el municipio. Su pareja también fue formalizada, por cohecho agravado y lavado de activos. La Fiscalía pidió prisión preventiva. Según T13, la Contraloría había recibido alertas sobre el caso que no derivaron en acciones. El control existió en el papel; no detuvo nada.
+
+**Fuentes:** [T13 — Las alertas que Contraloría ignoró en el caso Río Bueno](https://www.t13.cl/noticia/reportajes-teletrece/las-alertas-contraloria-ignoro-caso-rio-bueno-alcalde-fue-formalizado-este-lune-19-10-2026) · [Mirada Sur TV — Inicia formalización contra alcalde de Río Bueno y seis imputados](https://miradasurtv.cl/inicia-formalizacion-contra-alcalde-de-rio-bueno-y-seis-imputados/)
+
+### Caso Fundamenta: Migueles confiesa y la Fiscalía va por Vivanco — Chile
+Gonzalo Migueles admitió que el abogado Eduardo Lagos le pagó $13 millones para que su entonces pareja, la exministra de la Corte Suprema Ángela Vivanco, agilizara un fallo clave. Tras la confesión, la Fiscalía de Los Lagos solicitó audiencia para formalizar a los tres por cohecho, fijada para el 12 de noviembre. Lo que era sospecha —un depósito días después de un fallo favorable— hoy es confesión de uno de los involucrados.
+
+**Fuente:** [CIPER — Caso Fundamenta: tras confesión de Migueles, fiscalía solicita audiencia para formalizarlo junto a Vivanco y Lagos](https://www.ciperchile.cl/2026/10/19/caso-fundamenta-tras-confesion-de-migueles-fiscalia-solicita-audiencia-para-formalizarlo-junto-a-vivanco-y-lagos-por-cohecho/)
+
+### Alcalde de Chillán formalizado por fraude en la compra de la Medialuna — Chile
+El alcalde Camilo Benavente fue formalizado por fraude al fisco en la compra del predio de la Medialuna de Chillán. La Fiscalía estima un perjuicio municipal de $1.900 millones por no usar una tasación fidedigna; el CDE se querelló. La Fiscalía pidió arresto domiciliario total, pero el tribunal decretó solo arraigo nacional. La fiscal Nadia Espinoza calificó la medida de insuficiente, mencionó presiones del alcalde y del municipio hacia testigos y evalúa apelar.
+
+**Fuentes:** [La Tercera — Alcalde Camilo Benavente de Chillán queda con arraigo tras ser formalizado por fraude](https://www.latercera.com/nacional/noticia/alcalde-camilo-benavente-de-chillan-queda-con-arraigo-tras-ser-formalizado-por-fraude/) · [Radio Agricultura — Formalizan a alcalde de Chillán por fraude al fisco](https://www.radioagricultura.cl/noticias/nacional/formalizan-a-alcalde-de-chillan-por-fraude-al-fisco-fiscalia-acusa-perjuicio-municipal-de-1-900-millones_20261016/)
+
+### Cinco policías detenidos por corrupción en Polokwane — Sudáfrica
+Cinco agentes de policía fueron detenidos en Polokwane, provincia de Limpopo, acusados de corrupción, y el comisionado provincial los condenó públicamente. Una semana antes habían sido detenidos otros tres agentes de la misma provincia.
+
+**Fuente:** [Briefly — 5 South African Police Service Officers Arrested in Polokwane on Corruption Charges](https://briefly.co.za/south-africa/256470-5-police-officers-arrested-polokwane-corruption-charges)
