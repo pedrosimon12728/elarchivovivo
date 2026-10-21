@@ -314,7 +314,7 @@ La detención de seis policías por un presunto robo reabrió el debate sobre la
 ## 19.10.2026
 
 ### Alcalde de Río Bueno formalizado por recibir sobornos — Chile
-La Fiscalía formalizó al alcalde de Río Bueno, Luis Reyes, por cohecho y lavado de activos. Se le atribuye haber recibido al menos $26 millones en sobornos de proveedores que se adjudicaron contratos con el municipio. Su pareja también fue formalizada, por cohecho agravado y lavado de activos. La Fiscalía pidió prisión preventiva. Según T13, la Contraloría había recibido alertas sobre el caso que no derivaron en acciones. El control existió en el papel; no detuvo nada.
+La Fiscalía formalizó al alcalde de Río Bueno, Luis Reyes, por cohecho y lavado de activos. Según la Fiscalía, habría recibido al menos $36.360.000 en beneficios indebidos de empresarios y contratistas que se adjudicaron contratos con el municipio, además de unos $90 millones en depósitos en efectivo de origen no identificado. *(Corregido el 20.10: la versión original indicaba $26 millones.)* Su pareja también fue formalizada, por cohecho agravado y lavado de activos. La Fiscalía pidió prisión preventiva. Según T13, la Contraloría había recibido alertas sobre el caso que no derivaron en acciones. El control existió en el papel; no detuvo nada.
 
 **Fuentes:** [T13 — Las alertas que Contraloría ignoró en el caso Río Bueno](https://www.t13.cl/noticia/reportajes-teletrece/las-alertas-contraloria-ignoro-caso-rio-bueno-alcalde-fue-formalizado-este-lune-19-10-2026) · [Mirada Sur TV — Inicia formalización contra alcalde de Río Bueno y seis imputados](https://miradasurtv.cl/inicia-formalizacion-contra-alcalde-de-rio-bueno-y-seis-imputados/)
 
@@ -332,3 +332,22 @@ El alcalde Camilo Benavente fue formalizado por fraude al fisco en la compra del
 Cinco agentes de policía fueron detenidos en Polokwane, provincia de Limpopo, acusados de corrupción, y el comisionado provincial los condenó públicamente. Una semana antes habían sido detenidos otros tres agentes de la misma provincia.
 
 **Fuente:** [Briefly — 5 South African Police Service Officers Arrested in Polokwane on Corruption Charges](https://briefly.co.za/south-africa/256470-5-police-officers-arrested-polokwane-corruption-charges)
+
+---
+
+## 20.10.2026
+
+### Río Bueno: la Fiscalía pide prisión preventiva para el alcalde — Chile
+Según la Fiscalía, el alcalde Luis Reyes habría recibido al menos $36.360.000 en beneficios indebidos de empresarios y contratistas, y en su cuenta personal se detectaron cerca de $90 millones en depósitos en efectivo de origen no identificado. Son seis los formalizados: el alcalde, un empresario constructor, el representante de una productora de eventos, su conviviente, una secretaria y un funcionario municipal. La Fiscalía, el CDE y la parte querellante piden prisión preventiva; la defensa la califica de "absolutamente desproporcionada" y alega persecución política. El juez resolverá las medidas cautelares el miércoles 21.
+
+**Fuentes:** [Diario Paillaco — Fiscalía formalizó al alcalde de Río Bueno, a su pareja y a otros cuatro imputados](https://www.diariopaillaco.cl/noticia/actualidad/2026/10/fiscalia-formalizo-al-alcalde-de-rio-bueno-a-su-pareja-y-a-otros-cuatro-imputados-por-delitos-de-corrupcion) · [Río en Línea — Investigan $90 millones en depósitos](https://www.rioenlinea.cl/alcalde-de-rio-bueno-y-su-conviviente-fueron-formalizados-por-corrupcion-investigan-90-millones-en-depositos/) · [Diario El Ranco — Juez resolverá este miércoles cautelares del alcalde](https://diarioelranco.cl/2026/10/20/caso-luis-reyes-juez-resolvera-este-miercoles-cautelares-del-alcalde-tras-alegatos-de-las-defensas/)
+
+### Policías del aeropuerto de Polokwane detenidos por la desaparición de migrantes — Sudáfrica
+Tres agentes de policía del aeropuerto internacional de Polokwane fueron detenidos en relación con un esquema corrupto ligado a la desaparición de cerca de 50 extranjeros indocumentados bajo su custodia. Enfrentan cargos por obstrucción a la justicia e infracción de la Ley de Inmigración.
+
+**Fuente:** [Nova News — Three Polokwane airport police officers arrested over disappearance of 46 undocumented nationals](https://novanews.co.za/three-polokwane-airport-police-officers-arrested-over-disappearance-of-46-undocumented-nationals/)
+
+### Funcionario de instituto técnico detenido por licitación falsa — Sudáfrica
+Un empleado del Capricorn TVET College, en Limpopo, fue detenido tras recibir R40.000 en efectivo en un esquema de licitación ficticia. Se busca a un segundo sospechoso.
+
+**Fuente:** [SABC News — Capricorn TVET College employee arrested for corruption and extortion](https://www.sabcnews.com/sabcnews/capricorn-tvet-college-employee-arrested-for-corruption-and-extortion/)
