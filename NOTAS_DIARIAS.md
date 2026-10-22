@@ -351,3 +351,17 @@ Tres agentes de policía del aeropuerto internacional de Polokwane fueron deteni
 Un empleado del Capricorn TVET College, en Limpopo, fue detenido tras recibir R40.000 en efectivo en un esquema de licitación ficticia. Se busca a un segundo sospechoso.
 
 **Fuente:** [SABC News — Capricorn TVET College employee arrested for corruption and extortion](https://www.sabcnews.com/sabcnews/capricorn-tvet-college-employee-arrested-for-corruption-and-extortion/)
+
+---
+
+## 21.10.2026
+
+### Alcalde de Río Bueno queda en prisión preventiva — Chile
+El Juzgado de Garantía de Río Bueno decretó prisión preventiva para el alcalde Luis Reyes (UDI) y para el empresario constructor Héctor Meza. El tribunal estimó que la libertad del alcalde representa un peligro para la seguridad de la sociedad y podría comprometer la investigación. Según la Fiscalía, Reyes habría recibido al menos $36.360.000 en beneficios indebidos a cambio de favorecer a empresarios y contratistas en licitaciones municipales entre 2017 y 2022, y su cuenta personal registra unos $90 millones en depósitos en efectivo sin origen identificado. Reyes está imputado por cohecho agravado reiterado y lavado de activos; Meza, por soborno.
+
+**Fuentes:** [BioBioChile — Alcalde de Río Bueno, Luis Reyes, queda en prisión preventiva](https://www.biobiochile.cl/noticias/nacional/region-de-los-rios/2026/10/21/alcalde-de-rio-bueno-luis-reyes-queda-en-prision-preventiva-por-delitos-de-corrupcion.shtml) · [Emol — Dictan prisión preventiva para alcalde de Río Bueno](https://www.emol.com/noticias/Nacional/2026/10/21/1214820/prision-alcalde-riobueno-luis-reyes.html)
+
+### Policías detenidos por secuestro exprés, a disposición de la Fiscalía Anticorrupción — México
+Un operativo de la Fiscalía del Estado de México dejó siete detenidos cuando intentaban recibir efectivo y vehículos a cambio de liberar a un secuestrado. Cuatro de ellos son agentes de investigación de la propia Fiscalía y quedaron a disposición de la Fiscalía de Combate a la Corrupción. Los encargados de investigar el delito, detenidos cometiéndolo.
+
+**Fuente:** [Tribuna — Caen cuatro policías ministeriales y tres civiles por secuestro en Edomex](https://tribuna.com.mx/seguridad/2026/10/21/intentaron-cobrar-rescate-caen-cuatro-policias-ministeriales-y-tres-civiles-por-secuestro-en-edomex_704864/)
