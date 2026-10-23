@@ -365,3 +365,22 @@ El Juzgado de Garantía de Río Bueno decretó prisión preventiva para el alcal
 Un operativo de la Fiscalía del Estado de México dejó siete detenidos cuando intentaban recibir efectivo y vehículos a cambio de liberar a un secuestrado. Cuatro de ellos son agentes de investigación de la propia Fiscalía y quedaron a disposición de la Fiscalía de Combate a la Corrupción. Los encargados de investigar el delito, detenidos cometiéndolo.
 
 **Fuente:** [Tribuna — Caen cuatro policías ministeriales y tres civiles por secuestro en Edomex](https://tribuna.com.mx/seguridad/2026/10/21/intentaron-cobrar-rescate-caen-cuatro-policias-ministeriales-y-tres-civiles-por-secuestro-en-edomex_704864/)
+
+---
+
+## 22.10.2026
+
+### Detienen a Luisa González, excandidata presidencial del correísmo — Ecuador
+Luisa González, candidata presidencial de Revolución Ciudadana en 2023, fue detenida en la madrugada del jueves en Manabí, en un operativo de la Fiscalía y la Policía en Manabí y Pichincha, en el marco del caso Laberinto, que investiga presunto lavado de activos en el financiamiento y el gasto de publicidad de la campaña de 2023. El caso nació en el Consejo Nacional Electoral por inconsistencias contables; el Tribunal Contencioso Electoral impuso una multa y remitió los antecedentes a la Fiscalía. También son investigados el excandidato Andrés Arauz, el exasambleísta Santiago Díaz Asque y Estefanía Molina, encargada de las finanzas de la campaña. González calificó la acusación de "absurda" y habló de un ataque político. Aún no hay audiencia de formulación de cargos. Una irregularidad contable electoral convertida en causa penal contra la excandidata de la oposición.
+
+**Fuentes:** [Primicias — Del expediente electoral al lavado de activos: origen del caso Laberinto](https://www.primicias.ec/politica/luisa-gonzalez-andres-arauz-expediente-electoral-lavado-activos-caso-laberinto-135512/) · [Infobae — Quién es Luisa González](https://www.infobae.com/america/america-latina/2026/10/22/quien-es-luisa-gonzalez-la-excandidata-presidencial-del-correismo-detenida-en-ecuador/) · [Vistazo — Luisa González rompe el silencio](https://www.vistazo.com/politica/2026-10-22-caso-laberinto-luisa-gonzalez-rompe-silencio-acusacion-absurda-AK11286701)
+
+### Acusan a la presidenta pro tempore del Senado de Virginia — Estados Unidos
+La senadora estatal L. Louise Lucas, demócrata y presidenta pro tempore del Senado de Virginia, se entregó a las autoridades tras ser acusada por fiscales federales de cinco delitos vinculados a una operación ilegal de marihuana, entre ellos asociación delictiva bajo la ley RICO, conspiración para tráfico de marihuana y fraude de servicios honestos. Lucas niega los cargos.
+
+**Fuentes:** [NBC News — High-ranking Virginia Democrat charged in public corruption case](https://www.nbcnews.com/politics/justice-department/virginia-state-senator-l-louise-lucas-charged-public-corruption-case-d-rcna604870) · [Axios — Louise Lucas arrested in federal marijuana corruption case](https://www.axios.com/local/richmond/2026/10/22/louise-lucas-arrested-doj-marijuana-virginia-senator)
+
+### Detienen a recaudadora de impuestos del condado Fort Bend — Estados Unidos
+La recaudadora de impuestos del condado Fort Bend (Texas), Carmen Turner, fue acusada formalmente y detenida por usar fondos de la nómina del condado para pagar a dos empleados que cuidaban a su madre.
+
+**Fuente:** [CW39 — Fort Bend County Tax Assessor Carmen Turner arrested in corruption case](https://cw39.com/crime/federal-fbi-dps-corruption-announcement/)
