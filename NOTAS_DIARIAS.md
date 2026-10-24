@@ -384,3 +384,32 @@ La senadora estatal L. Louise Lucas, demócrata y presidenta pro tempore del Sen
 La recaudadora de impuestos del condado Fort Bend (Texas), Carmen Turner, fue acusada formalmente y detenida por usar fondos de la nómina del condado para pagar a dos empleados que cuidaban a su madre.
 
 **Fuente:** [CW39 — Fort Bend County Tax Assessor Carmen Turner arrested in corruption case](https://cw39.com/crime/federal-fbi-dps-corruption-announcement/)
+
+---
+
+## 23.10.2026
+
+### Luisa González, a prisión preventiva — Ecuador
+El juez Henry Navarrete Vélez acogió el pedido de la Fiscalía y dictó prisión preventiva para la excandidata presidencial Luisa González, Santiago Díaz y Wendy Onofre en el caso Laberinto, por presunto lavado de activos. Estefanía Molina quedó con medidas alternativas, entre ellas prohibición de salir del país y vigilancia electrónica. La Fiscalía investiga el presunto financiamiento ilícito de la campaña presidencial de 2023 de Revolución Ciudadana, con hipótesis que incluyen dinero en efectivo desde Venezuela y fondos de empresas vinculadas al alcalde de Guayaquil, Aquiles Álvarez. La instrucción fiscal durará 90 días. González rechaza las acusaciones y habla de persecución política.
+
+**Fuentes:** [El Universo — Juez dicta orden de prisión preventiva contra Luisa González](https://www.eluniverso.com/politica/expedientes/juez-dicta-orden-de-pision-preventiva-contra-luisa-gonzalez-y-otros-dos-investigados-en-el-caso-laberinto-nota/) · [Teleamazonas — Caso Laberinto: Juez dicta prisión preventiva para Luisa González](https://www.teleamazonas.com/actualidad/noticias/judicial/prision-preventiva-luisa-gonzalez-caso-laberinto-131159/) · [Primicias — Prisión preventiva para Luisa González y otras dos personas](https://www.primicias.ec/politica/luisa-gonzalez-prision-preventiva-caso-laberinto-lavado-activos-revolucion-ciudadana-135562/)
+
+### Detienen al dueño de la financiera vinculada a la AFA — Argentina
+Un juez federal de Lomas de Zamora ordenó la detención de Ariel Vallejo, dueño de Sur Finanzas, financiera vinculada a la AFA, por lavado de dinero, ante el riesgo de fuga: el juzgado no sabía con certeza dónde vive. La imputación se amplió y fueron citadas a indagatoria 21 personas y 17 empresas.
+
+**Fuente:** [La Nación — Detuvieron por lavado de dinero a Ariel Vallejo, dueño de Sur Finanzas](https://www.lanacion.com.ar/politica/detuvieron-a-ariel-vallejos-dueno-de-sur-finanzas-por-lavado-nid23102026/)
+
+### Nueva investigación por corrupción contra el exfiscal de Chihuahua — México
+La FGR abrió una nueva investigación por presuntos actos de corrupción contra César Jáuregui, exfiscal de Chihuahua, encarcelado por traición a la patria en el caso del operativo con la CIA. Se suma a otros dos procesos: traición a la patria y ejercicio ilegal del servicio público.
+
+**Fuente:** [Infobae — México abre una nueva investigación por corrupción contra un exfiscal acusado de traición](https://www.infobae.com/america/agencias/2026/10/23/mexico-abre-una-nueva-investigacion-por-corrupcion-contra-un-exfiscal-acusado-de-traicion/)
+
+### El alcalde de Río Bueno apelará la prisión preventiva — Chile
+La defensa del alcalde Luis Reyes apelará la prisión preventiva el lunes. Concejales calificaron de "extrema gravedad" su formalización. Según BioBioChile, el constructor Héctor Meza, también en prisión preventiva, depositó $27 millones al alcalde.
+
+**Fuentes:** [BioBioChile — Alcalde de Río Bueno apelará prisión preventiva](https://www.biobiochile.cl/noticias/nacional/chile/2026/10/23/alcalde-de-rio-bueno-intentara-dejar-la-carcel-apelara-prision-preventiva-por-presunta-corrupcion.shtml) · [BioBioChile — Concejales tildan de "extrema gravedad" formalización](https://www.biobiochile.cl/noticias/nacional/region-de-los-rios/2026/10/23/concejales-tildan-de-extrema-gravedad-formalizacion-de-alcalde-de-rio-bueno-por-presunta-corrupcion.shtml)
+
+### Detienen a funcionarios de la agencia antilavado por coimas — India
+La CBI detuvo en un operativo encubierto a dos funcionarios de la Dirección de Control (Enforcement Directorate), zona Lucknow, en un caso de soborno de 5 lakh de rupias. Los encargados de perseguir el lavado, detenidos por cobrar coimas.
+
+**Fuente:** [The Hans India — CBI arrests two ED officials in Lucknow in Rs 5 lakh bribery case](https://thehansindia.com/news/cities/new-delhi/cbi-arrests-two-ed-officials-in-lucknow-in-rs-5-lakh-bribery-case-1135074)
