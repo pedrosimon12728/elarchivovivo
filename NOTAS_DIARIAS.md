@@ -413,3 +413,27 @@ La defensa del alcalde Luis Reyes apelará la prisión preventiva el lunes. Conc
 La CBI detuvo en un operativo encubierto a dos funcionarios de la Dirección de Control (Enforcement Directorate), zona Lucknow, en un caso de soborno de 5 lakh de rupias. Los encargados de perseguir el lavado, detenidos por cobrar coimas.
 
 **Fuente:** [The Hans India — CBI arrests two ED officials in Lucknow in Rs 5 lakh bribery case](https://thehansindia.com/news/cities/new-delhi/cbi-arrests-two-ed-officials-in-lucknow-in-rs-5-lakh-bribery-case-1135074)
+
+---
+
+## 24.10.2026
+
+### EE.UU. revoca visas a 21 colombianos del entorno de Petro — Colombia
+Según Infobae, tras la revocatoria de visas a 21 colombianos, el FBI y el Departamento de Estado analizan una cuarta fase de sanciones contra personas cercanas al presidente Gustavo Petro, incluida una posible inclusión en la lista OFAC. Entre los afectados por la revocatoria, firmada por Christopher Landau, figuran Ricardo Roa, Wadith Manzur, Karen Manrique, Julio Elías Chagüi, Liliana Bitar, Yahir Acuña y José Ignacio Mesa. Las afirmaciones del reporte permanecen bajo verificación de las autoridades. La sanción llega desde Washington antes que desde los tribunales colombianos.
+
+**Fuente:** [Infobae — Qué indaga el FBI con miras a ejecutar una cuarta fase de sanciones a personas cercanas a Gustavo Petro](https://www.infobae.com/colombia/2026/10/24/que-indaga-el-fbi-con-miras-a-ejecutar-una-cuarta-fase-de-sanciones-a-personas-cercanas-a-gustavo-petro-tras-revocatoria-de-visas-a-21-colombianos/)
+
+### Ocho exfiscales en listas de EE.UU.; cuatro ya están detenidos — Bolivia
+Ocho exfiscales bolivianos figuran en listas de Estados Unidos y cuatro de ellos ya están detenidos, entre ellos Roger Mariaca, Alberto Zeballos y Martín Irusta, en detención preventiva.
+
+**Fuente:** [La Razón — Ocho exfiscales figuran en listas de EEUU; cuatro ya están detenidos](https://larazon.bo/nacional/2026/10/24/ocho-exfiscales-figuran-en-listas-de-eeuu-cuatro-ya-estan-detenidos/)
+
+### El dueño de Sur Finanzas compró una casa por US$500.000 en efectivo — Argentina
+Según Perfil, el juez que investiga a Ariel Vallejo, dueño de Sur Finanzas, descubrió que compró una casa en un country por US$500.000 en efectivo. Vallejo fue detenido para ampliar su declaración indagatoria; luego se resolverá si sigue preso. Según el medio, el avance judicial "roza la cúpula de la AFA".
+
+**Fuente:** [Perfil — La detención del dueño de Sur Finanzas pone bajo la lupa al "Chiqui" Tapia y a la cúpula de la AFA](https://www.perfil.com/noticias/politica/detuvieron-al-dueno-de-sur-finanzas-un-avance-judicial-que-roza-la-cupula-de-la-afa.phtml)
+
+### También acusan a las hijas de la senadora Louise Lucas — Estados Unidos
+La acusación contra la senadora estatal de Virginia está ligada a un negocio de cannabis del que es copropietaria. Además de ella, media docena de personas, entre ellas sus hijas, fueron detenidas y acusadas en el mismo esquema, con cargos de asociación delictiva bajo la ley RICO y conspiración para lavado de dinero.
+
+**Fuente:** [NBC News — High-ranking Virginia Democrat charged in public corruption case](https://www.nbcnews.com/politics/justice-department/virginia-state-senator-l-louise-lucas-charged-public-corruption-case-d-rcna604870)
