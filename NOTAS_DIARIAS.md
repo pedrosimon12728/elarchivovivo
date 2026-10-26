@@ -437,3 +437,22 @@ Según Perfil, el juez que investiga a Ariel Vallejo, dueño de Sur Finanzas, de
 La acusación contra la senadora estatal de Virginia está ligada a un negocio de cannabis del que es copropietaria. Además de ella, media docena de personas, entre ellas sus hijas, fueron detenidas y acusadas en el mismo esquema, con cargos de asociación delictiva bajo la ley RICO y conspiración para lavado de dinero.
 
 **Fuente:** [NBC News — High-ranking Virginia Democrat charged in public corruption case](https://www.nbcnews.com/politics/justice-department/virginia-state-senator-l-louise-lucas-charged-public-corruption-case-d-rcna604870)
+
+---
+
+## 25.10.2026
+
+### Siete policías entregados a la justicia por detenciones irregulares en el caso Solórzano Foppa — Guatemala
+El Ministerio de Gobernación entregó a los tribunales a siete miembros de la Policía Nacional Civil —un comisario, un inspector, un oficial tercero y cuatro agentes— por presuntas irregularidades en la detención de los hermanos Choc Toz el 17 de octubre, liberados después por falta de pruebas. El director de la PNC, David Boteo, reconoció que aún no hay una hipótesis específica sobre el crimen; a una semana del asesinato, nadie ha sido formalmente acusado. Human Rights Watch pidió una investigación exhaustiva, pronta y creíble.
+
+**Fuentes:** [República — PNC entrega a siete agentes por caso Solórzano Foppa](https://republica.com/actualidad/pnc-entrega-a-siete-agentes-por-caso-solorzano-foppa-2026102319210) · [Publinews — Boteo afirma que aún no hay una hipótesis específica](https://www.publinews.gt/noticias/2026/10/23/david-boteo-afirma-que-aun-no-hay-una-hipotesis-especifica-sobre-el-crimen-de-solorzano-foppa/) · [Human Rights Watch — Guatemala: Asesinan a reconocido abogado anticorrupción](https://www.hrw.org/es/news/2026/10/20/guatemala-asesinan-a-reconocido-abogado-anticorrupcion)
+
+### Gerente municipal detenido por soborno ofreció dinero a quienes lo arrestaban — Sudáfrica
+Langalihle Jili, gerente municipal del distrito de uThukela, fue detenido el 21 de octubre tras recibir presuntamente R100.000 del denunciante. Durante el arresto, según la acusación, ofreció R600.000 a los investigadores de los Hawks. Su audiencia de fianza fue fijada para el 27 de octubre.
+
+**Fuente:** [Inside Education — uThukela municipal manager arrested for corruption, accused of trying to bribe Hawks](https://insideeducation.co.za/uthukela-municipal-manager-arrested-for-corruption-accused-of-trying-to-bribe-hawks/)
+
+### Detienen a la alcaldesa de Kissimmee por hurto y fraude — Estados Unidos
+La alcaldesa de Kissimmee (Florida), Jackie Espinosa, fue detenida el 21 de octubre por hurto mayor y esquema organizado de fraude, según anunció el fiscal general del estado. Su abogado sostiene que el caso involucra un programa de subvenciones aprobado públicamente e impugnará las acusaciones.
+
+**Fuente:** [Spectrum News 13 — AG Uthmeier announces arrest of Kissimmee Mayor Jackie Espinosa](https://mynews13.com/fl/orlando/news/2026/10/21/ag-uthemier-announces-arrest-of-kissimmee-mayor-jackie-espinosa)
