@@ -456,3 +456,17 @@ Langalihle Jili, gerente municipal del distrito de uThukela, fue detenido el 21 
 La alcaldesa de Kissimmee (Florida), Jackie Espinosa, fue detenida el 21 de octubre por hurto mayor y esquema organizado de fraude, según anunció el fiscal general del estado. Su abogado sostiene que el caso involucra un programa de subvenciones aprobado públicamente e impugnará las acusaciones.
 
 **Fuente:** [Spectrum News 13 — AG Uthmeier announces arrest of Kissimmee Mayor Jackie Espinosa](https://mynews13.com/fl/orlando/news/2026/10/21/ag-uthemier-announces-arrest-of-kissimmee-mayor-jackie-espinosa)
+
+---
+
+## 26.10.2026
+
+### Hermosilla, formalizado por soborno al exfiscal Manuel Guerra — Chile
+El abogado Luis Hermosilla fue formalizado este lunes en el 4° Juzgado de Garantía de Santiago por soborno en la investigación contra el exfiscal Manuel Guerra, sospechoso de entregar información reservada y favorecer a Hermosilla y al exministro Andrés Chadwick. Según los chats de WhatsApp almacenados en el teléfono del abogado, entre 2016 y 2023 Guerra le habría filtrado información sobre investigaciones que involucraban a personas cercanas al penalista. Guerra fue formalizado en marzo y permanece en prisión preventiva. Chadwick figura en la investigación, pero hasta ahora sin imputación formal, algo que cuestiona el querellante Mauricio Daza. El fiscal a cargo de investigaciones sensibles, filtrando información al abogado de los investigados.
+
+**Fuentes:** [BioBioChile — Luis Hermosilla será formalizado por soborno en caso de exfiscal Manuel Guerra](https://www.biobiochile.cl/noticias/nacional/chile/2026/10/26/luis-hermosilla-sera-formalizado-por-soborno-en-caso-de-exfiscal-manuel-guerra.shtml) · [Meganoticias — Luis Hermosilla es formalizado por soborno](https://www.meganoticias.cl/nacional/534812-luis-hermosilla-formalizacion-soborno-caso-manuel-guerra-exfiscal-vinculo-andres-chadwick-26-10-2026.html) · [La Tercera — Luis Hermosilla suma formalización por caso contra el exfiscal Guerra](https://www.latercera.com/nacional/noticia/luis-hermosilla-suma-formalizacion-por-caso-contra-el-exfiscal-guerra/)
+
+### Alcalde de Coronel formalizado por fraude al fisco en el caso Embotelladora Llacolén — Chile
+La Fiscalía Regional del Biobío formalizó al alcalde de Coronel, Boris Chamorro, junto a cuatro exconcejales y su exdirector jurídico, por fraude al fisco en el caso Embotelladora Llacolén. Según el Ministerio Público, el perjuicio al patrimonio municipal supera los $1.300 millones. El debate sobre medidas cautelares quedó fijado para el 20 de noviembre. Tres alcaldes formalizados en diez días: Chillán, Río Bueno y Coronel.
+
+**Fuentes:** [CNN Chile — Formalizan al alcalde de Coronel por fraude al Fisco](https://www.cnnchile.com/pais/formalizan-al-alcalde-de-coronel-boris-chamorro-fraude-fisco-fiscalia-estima-perjuicio-de-mas-de-1-300-millones/) · [DF — Alcalde de Coronel es formalizado por fraude al fisco](https://www.df.cl/regiones/biobio/alcalde-de-coronel-es-formalizado-por-fraude-al-fisco-por-caso)
