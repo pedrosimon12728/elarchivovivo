@@ -470,3 +470,27 @@ El abogado Luis Hermosilla fue formalizado este lunes en el 4° Juzgado de Garan
 La Fiscalía Regional del Biobío formalizó al alcalde de Coronel, Boris Chamorro, junto a cuatro exconcejales y su exdirector jurídico, por fraude al fisco en el caso Embotelladora Llacolén. Según el Ministerio Público, el perjuicio al patrimonio municipal supera los $1.300 millones. El debate sobre medidas cautelares quedó fijado para el 20 de noviembre. Tres alcaldes formalizados en diez días: Chillán, Río Bueno y Coronel.
 
 **Fuentes:** [CNN Chile — Formalizan al alcalde de Coronel por fraude al Fisco](https://www.cnnchile.com/pais/formalizan-al-alcalde-de-coronel-boris-chamorro-fraude-fisco-fiscalia-estima-perjuicio-de-mas-de-1-300-millones/) · [DF — Alcalde de Coronel es formalizado por fraude al fisco](https://www.df.cl/regiones/biobio/alcalde-de-coronel-es-formalizado-por-fraude-al-fisco-por-caso)
+
+---
+
+## 27.10.2026
+
+### Caso Guerra: la Fiscalía expone 15 hechos que involucran a Chadwick — Chile
+En la formalización de Luis Hermosilla por soborno, la Fiscalía Regional de Arica presentó 15 hechos basados en chats de WhatsApp que revelarían una posible coordinación triangular entre el exfiscal Manuel Guerra, Hermosilla y el exministro del Interior Andrés Chadwick, con una dinámica de favores recíprocos sin necesariamente pagos directos por cada gestión. El fiscal regional Mario Carrera señaló que Chadwick mantiene la calidad de imputado y que su eventual formalización sigue en análisis, porque que su nombre aparezca no basta: se requiere evidencia concreta. Para Hermosilla, la Fiscalía pidió firma mensual y arraigo nacional. La moneda de cambio, según la tesis fiscal: favores, no dinero.
+
+**Fuentes:** [BioBioChile — Formalizan a Hermosilla por soborno: Fiscalía expone presunta red de favores que involucra a Chadwick](https://www.biobiochile.cl/noticias/nacional/chile/2026/10/27/formalizan-a-hermosilla-por-soborno-fiscalia-expone-presunta-red-de-favores-que-involucra-a-chadwick.shtml) · [El Mostrador — Caso Guerra: exponen 15 hechos que involucran a Chadwick](https://www.elmostrador.cl/noticias/pais/2026/10/27/caso-guerra-formalizan-a-hermosilla-por-soborno-y-exponen-15-hechos-que-involucran-a-chadwick/)
+
+### 56 detenidos en otro municipio opositor de Estambul — Turquía
+La fiscalía de Estambul ordenó la detención de 68 sospechosos en una investigación por corrupción en el municipio de Bakırköy, gobernado por el opositor CHP; 56 fueron detenidos, entre ellos subalcaldes, concejales, funcionarios y representantes de empresas que participaron en licitaciones municipales. La operación coincidió con el día en que el alcalde y concejales iban a dejar el CHP, y forma parte de una serie de investigaciones contra municipios ganados por ese partido.
+
+**Fuente:** [Turkish Minute — 56 detained in corruption probe targeting opposition-run district municipality in İstanbul](https://www.turkishminute.com/2026/10/27/56-detained-in-corruption-probe-targeting-opposition-run-district-municipality-in-istanbul/)
+
+### Exfuncionario de la Cancillería, en prisión preventiva por desvío de ayuda internacional — Ucrania
+El Tribunal Anticorrupción de Ucrania ordenó prisión preventiva, con opción de fianza, para Oleksandr Bankov, exsecretario de Estado del Ministerio de Relaciones Exteriores. Según la NABU y la SAPO, es sospechoso de participar en un esquema para apropiarse de fondos de ayuda internacional enviados al inicio de la invasión rusa a gran escala.
+
+**Fuente:** [Mezha — Anti-Corruption Court arrests former Foreign Ministry official in aid funds case](https://mezha.net/eng/news/d1429b37_anti-corruption_court_arrests_former/)
+
+### El dueño de Sur Finanzas seguirá preso por riesgo de fuga — Argentina
+El juez federal Juan Tomás Rodríguez Ponte rechazó la excarcelación de Ariel Vallejo y la prisión domiciliaria con tobillera electrónica. Citó tres incumplimientos: no presentarse mensualmente ante la Policía Federal, mudarse en agosto e informarlo recién el 15 de octubre, y no entregar los vehículos que debían quedar a disposición de la Justicia. También mencionó sus vínculos con sociedades, cuentas y bienes a nombre de terceros.
+
+**Fuente:** [Infobae — Sur Finanzas: por riesgo de fuga seguirá preso Ariel Vallejo](https://www.infobae.com/judiciales/2026/10/26/sur-finanzas-por-riesgo-de-fuga-seguira-preso-ariel-vallejo-en-la-causa-por-lavado-de-dinero/)
