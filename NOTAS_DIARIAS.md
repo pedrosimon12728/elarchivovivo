@@ -494,3 +494,27 @@ El Tribunal Anticorrupción de Ucrania ordenó prisión preventiva, con opción 
 El juez federal Juan Tomás Rodríguez Ponte rechazó la excarcelación de Ariel Vallejo y la prisión domiciliaria con tobillera electrónica. Citó tres incumplimientos: no presentarse mensualmente ante la Policía Federal, mudarse en agosto e informarlo recién el 15 de octubre, y no entregar los vehículos que debían quedar a disposición de la Justicia. También mencionó sus vínculos con sociedades, cuentas y bienes a nombre de terceros.
 
 **Fuente:** [Infobae — Sur Finanzas: por riesgo de fuga seguirá preso Ariel Vallejo](https://www.infobae.com/judiciales/2026/10/26/sur-finanzas-por-riesgo-de-fuga-seguira-preso-ariel-vallejo-en-la-causa-por-lavado-de-dinero/)
+
+---
+
+## 28.10.2026
+
+### Hermosilla vuelve a prisión preventiva, contra lo pedido por la Fiscalía — Chile
+El 4° Juzgado de Garantía de Santiago ordenó el regreso de Luis Hermosilla a prisión preventiva por la arista del exfiscal Manuel Guerra, acogiendo la solicitud de los querellantes, pese a que la Fiscalía había pedido solo firma mensual y arraigo nacional. El querellante Mauricio Daza sostuvo que, si la Fiscalía decide no formalizar al exministro Andrés Chadwick, "estaría incumpliendo sus deberes". El tribunal fue más severo que el propio Ministerio Público.
+
+**Fuentes:** [El Mostrador — Otra vez tras las rejas: Luis Hermosilla vuelve a prisión preventiva por arista Guerra](https://www.elmostrador.cl/noticias/pais/2026/10/28/otra-vez-tras-las-rejas-luis-hermosilla-vuelve-a-prision-preventiva-por-arista-guerra/) · [CIPER — Mauricio Daza por el Caso Guerra](https://www.ciperchile.cl/2026/10/28/mauricio-daza-por-el-caso-guerra-si-la-fiscalia-decide-no-formalizar-a-chadwick-estaria-incumpliendo-sus-deberes/)
+
+### Detienen a gendarme con 22 años de servicio que cobraba a reos — Chile
+Un gendarme con 22 años en la institución fue detenido en Valdivia. Según la Fiscalía, exigía dinero a internos a cambio de beneficios penitenciarios y reubicaciones, e ingresaba artículos prohibidos para venderlos dentro del penal.
+
+**Fuente:** [BioBioChile — Cae gendarme con 22 años de servicio por corrupción en Valdivia](https://www.biobiochile.cl/noticias/nacional/region-de-los-rios/2026/10/28/cae-gendarme-con-22-anos-de-servicio-por-corrupcion-en-valdivia-exigia-dinero-para-beneficiar-a-reos.shtml)
+
+### Detienen al alcalde de Vinces por lavado de US$3,2 millones — Ecuador
+El alcalde de Vinces (provincia de Los Ríos), Juan Alfonso Montalván, fue aprehendido en allanamientos simultáneos que dejaron 15 detenidos, en una investigación por presunto lavado de activos por US$3,2 millones. Según Extra, es uno de seis alcaldes ecuatorianos capturados en 2026 por presunta corrupción.
+
+**Fuentes:** [Infobae — Detienen al alcalde de Vinces en Ecuador](https://infobae.com/america/america-latina/2026/10/28/detienen-al-alcalde-de-vinces-en-ecuador-por-una-investigacion-de-lavado-de-activos-de-usd-32-millones) · [Extra — Alcaldes detenidos e investigados en Ecuador](https://www.extra.ec/noticia/justicia/alcaldes-detenidos-e-investigados-ecuador-casos-enfrentan-octubre-2026-166370.html)
+
+### Confirman detención de exejecutivo bancario por fraude fiscal de US$40 millones — Panamá
+El Tribunal Superior de Apelaciones confirmó la detención provisional de Arnold Enrique Salgado Galeano, exvicepresidente de Finanzas de BAC Panamá, en el caso Pandora, por presunta corrupción privada y delincuencia organizada, en una investigación por un presunto fraude fiscal de más de US$40 millones. Fue detenido el 6 de octubre.
+
+**Fuente:** [Infobae — Confirman detención de exejecutivo bancario investigado en Panamá](https://www.infobae.com/panama/2026/10/28/confirman-detencion-de-exejecutivo-bancario-investigado-en-panama-por-fraude-fiscal-de-mas-de-40-millones/)
