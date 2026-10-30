@@ -518,3 +518,27 @@ El alcalde de Vinces (provincia de Los Ríos), Juan Alfonso Montalván, fue apre
 El Tribunal Superior de Apelaciones confirmó la detención provisional de Arnold Enrique Salgado Galeano, exvicepresidente de Finanzas de BAC Panamá, en el caso Pandora, por presunta corrupción privada y delincuencia organizada, en una investigación por un presunto fraude fiscal de más de US$40 millones. Fue detenido el 6 de octubre.
 
 **Fuente:** [Infobae — Confirman detención de exejecutivo bancario investigado en Panamá](https://www.infobae.com/panama/2026/10/28/confirman-detencion-de-exejecutivo-bancario-investigado-en-panama-por-fraude-fiscal-de-mas-de-40-millones/)
+
+---
+
+## 29.10.2026
+
+### Ordenan la detención inmediata del exjuez federal Gastón Salmain — Argentina
+El juez federal Carlos Vera Barros ordenó la detención inmediata de Gastón Salmain, exjuez federal de Rosario removido en juicio político, quien cumplirá prisión domiciliaria en la causa Attila, en la que está procesado por presuntamente "vender" fallos a cambio de coimas. El financista Fernando Whpei se convirtió en imputado colaborador y, al confesar, incriminó al exjuez. El juez que debía resolver, acusado de cobrar por sus resoluciones.
+
+**Fuente:** [Infobae — Ordenaron la detención inmediata de Gastón Salmain, ex juez federal de Rosario](https://www.infobae.com/judiciales/2026/10/29/ordenaron-la-detencion-inmediata-de-gaston-salmain-ex-juez-federal-de-rosario/)
+
+### Capturan a jueza de Bogotá por presunto pacto de $1.200 millones para liberar a un extraditable — Colombia
+Una jueza de control de garantías de Bogotá, un funcionario judicial y una abogada fueron capturados por su presunta participación en un acuerdo de 1.200 millones de pesos para lograr la libertad de un ciudadano neerlandés requerido en extradición por narcotráfico. En las audiencias del 28 de octubre se declararon inocentes y no aceptaron los cargos.
+
+**Fuentes:** [IFM Noticias — Capturan a una juez de Bogotá señalada de pactar 1.200 millones de pesos](https://ifmnoticias.com/seguridad/capturan-a-una-jueza-de-bogota-senalada-de-pactar-1-200-millones-de-pesos-para-l/) · [HSB Noticias — Escándalo de presunta corrupción judicial en Colombia](https://hsbnoticias.com/noticias/escandalo-de-presunta-corrupcion-judicial-en-colombia-investigan-soborno-de-1-200-millon)
+
+### Formalizan a contador y dos exfuncionarios del SII por pagos a cambio de trámites — Chile
+La Fiscalía Anticorrupción formalizó a un contador y a dos exfuncionarios del Servicio de Impuestos Internos. Según el fiscal jefe anticorrupción Javier Von Bischoffshausen, mantenían un patrón de pagos a cambio de facilitar trámites y revisiones en los sistemas del SII. Uno de los imputados quedó en prisión preventiva. Las fuentes no detallan nombres ni montos.
+
+**Fuentes:** [El Rancagüino — Formalizan a contador y dos funcionarios del SII por presuntos delitos de corrupción](https://www.elrancaguino.cl/2026/10/19/formalizan-a-contador-y-dos-funcionarios-del-sii-por-presuntos-delitos-de-corrupcion/) · [Veredictum — Formalizan a 3 por presuntos delitos de corrupción en el SII](https://veredictum.cl/formalizan-a-3-por-presuntos-delitos-de-corrupcion-en-el-sii/)
+
+### Detienen a funcionaria distrital por cobrar puestos de trabajo — Uganda
+La Inspección General de Gobierno detuvo a Florence Ejang, mecanógrafa del gobierno local de Oyam, acusada de solicitar 17,6 millones de chelines a seis personas a cambio de nombramientos. Comparecerá ante el Tribunal Anticorrupción el 30 de octubre.
+
+**Fuente:** [Watchdog Uganda — IG Arrests Oyam District Staff Over Alleged Corruption](https://watchdoguganda.com/news/20261029/200307/ig-arrests-oyam-district-staff-over-alleged-corruption.html)
