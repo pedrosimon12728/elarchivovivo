@@ -542,3 +542,27 @@ La Fiscalía Anticorrupción formalizó a un contador y a dos exfuncionarios del
 La Inspección General de Gobierno detuvo a Florence Ejang, mecanógrafa del gobierno local de Oyam, acusada de solicitar 17,6 millones de chelines a seis personas a cambio de nombramientos. Comparecerá ante el Tribunal Anticorrupción el 30 de octubre.
 
 **Fuente:** [Watchdog Uganda — IG Arrests Oyam District Staff Over Alleged Corruption](https://watchdoguganda.com/news/20261029/200307/ig-arrests-oyam-district-staff-over-alleged-corruption.html)
+
+---
+
+## 30.10.2026
+
+### Piden 18 años de cárcel para exdirectivo del ISSSTE por contratos con una empresa fachada — México
+La FGR pidió 18 años de prisión contra Javier Tapia Santoyo, exdirectivo del Hospital 20 de Noviembre del ISSSTE. Lo acusa de haber adjudicado contratos por 11,1 millones de pesos a Interacción Biomédica, empresa que el SAT tiene desde 2017 en su lista definitiva de compañías que simulan operaciones. Según la Fiscalía, entre octubre de 2017 y enero de 2019 recibió, directamente o a través de terceros, transferencias por 20,3 millones de pesos. Además pide que repare el daño por 11,1 millones de pesos. Es la acusación del Ministerio Público y todavía no hay sentencia.
+
+**Fuente:** [El Imparcial — FGR pide 18 años de cárcel para exdirectivo del ISSSTE por presuntos "moches"](https://www.elimparcial.com/mexico/2026/10/30/fgr-pide-18-anos-de-carcel-para-exdirectivo-del-issste-por-presuntos-moches-en-contratos-de-111-millones-de-pesos-adjudicados-a-una-empresa-senalada-por-el-sat-como-facturera/)
+
+### Migraciones separa a funcionarios investigados por una red que alteró controles en el aeropuerto — Perú
+La Fiscalía y la Policía detuvieron preliminarmente a 12 personas en Lima, Callao, Tumbes, Puno y Lambayeque, entre ellas funcionarios y exfuncionarios de Migraciones y policías. Los investigan por tráfico ilícito de migrantes agravado, por atentar contra la integridad de datos informáticos y por formar una banda criminal. Habrían facilitado entre 2022 y 2025 la salida de menores sin permiso de viaje por el aeropuerto Jorge Chávez. La denuncia la presentó la propia Superintendencia de Migraciones, que separó de sus funciones a los trabajadores investigados.
+
+**Fuentes:** [Infobae — Migraciones separa de sus funciones a trabajadores investigados](https://www.infobae.com/peru/2026/10/30/migraciones-separa-de-sus-funciones-a-trabajadores-investigados-por-presunto-trafico-ilicito-de-migrantes/) · [El Comercio — Detienen a 12 personas por tráfico ilícito de migrantes](https://elcomercio.pe/lima/policiales/migraciones-detienen-a-12-personas-por-trafico-ilicito-de-migrantes-y-fraude-informatico-figuran-policias-y-funcionarios-ultimas-noticia/)
+
+### Querella contra el alcalde de Chonchi por $400 millones en finiquitos — Chile
+La Asociación de Funcionarios de la Salud Municipal (Afusam) de Chonchi presentó una querella por presunto fraude al fisco reiterado contra el alcalde Fernando Oyarzún y contra quienes resulten responsables. La querella cuestiona el pago de $400.483.757 en finiquitos a 22 trabajadores que habrían seguido o vuelto a trabajar en la Corporación Municipal. Ante el concejo, el alcalde dijo que supo de la querella por la prensa y que está dispuesto a hacer auditorías.
+
+**Fuentes:** [BioBioChile — Afusam presenta querella contra alcalde de Chonchi](https://www.biobiochile.cl/noticias/nacional/region-de-los-lagos/2026/10/27/afusam-presenta-querella-contra-alcalde-de-chonchi-por-presunto-fraude-al-fisco.shtml) · [BioBioChile — "Me enteré por el diario"](https://www.biobiochile.cl/noticias/nacional/region-de-los-lagos/2026/10/28/me-entere-por-el-diario-alcalde-de-chonchi-tras-querella-de-afusam-por-presunto-fraude-al-fisco.shtml)
+
+### Pena de muerte con suspensión para exjefe anticorrupción del regulador bursátil — China
+Un tribunal de Chengdu condenó a muerte con dos años de suspensión a Wang Huimin, exfuncionario de disciplina de la Comisión Reguladora de Valores de China (CSRC). El tribunal concluyó que recibió unos 436 millones de yuanes en sobornos, alrededor de US$65 millones, entre 1998 y 2025. Si no comete otro delito durante esos dos años, la pena pasa a cadena perpetua, sin posibilidad de rebaja ni libertad condicional. El caso es parte de una ofensiva más amplia en la CSRC.
+
+**Fuentes:** [Xinhua — Former senior securities regulator discipline inspector handed death sentence with reprieve](https://english.news.cn/20261027/6abc90ece3ec4b43b351099ca5729299/c.html) · [Caixin — China Sentences Former Securities Regulator to Death With Reprieve](https://www.caixinglobal.com/2026-10-28/china-sentences-former-securities-regulator-to-death-with-reprieve-for-65-million-in-bribes-102498173.html)
