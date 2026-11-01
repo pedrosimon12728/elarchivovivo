@@ -566,3 +566,22 @@ La Asociación de Funcionarios de la Salud Municipal (Afusam) de Chonchi present
 Un tribunal de Chengdu condenó a muerte con dos años de suspensión a Wang Huimin, exfuncionario de disciplina de la Comisión Reguladora de Valores de China (CSRC). El tribunal concluyó que recibió unos 436 millones de yuanes en sobornos, alrededor de US$65 millones, entre 1998 y 2025. Si no comete otro delito durante esos dos años, la pena pasa a cadena perpetua, sin posibilidad de rebaja ni libertad condicional. El caso es parte de una ofensiva más amplia en la CSRC.
 
 **Fuentes:** [Xinhua — Former senior securities regulator discipline inspector handed death sentence with reprieve](https://english.news.cn/20261027/6abc90ece3ec4b43b351099ca5729299/c.html) · [Caixin — China Sentences Former Securities Regulator to Death With Reprieve](https://www.caixinglobal.com/2026-10-28/china-sentences-former-securities-regulator-to-death-with-reprieve-for-65-million-in-bribes-102498173.html)
+
+---
+
+## 31.10.2026
+
+### Fiscalía allana el Municipio de Guayaquil y la Agencia de Tránsito por presunto peculado — Ecuador
+La Fiscalía registró el 30 de octubre las oficinas de la Agencia de Tránsito y Movilidad (ATM) en Los Ceibos, su departamento de revisión técnica vehicular en la Terminal Terrestre y la Dirección de Recursos Humanos del Municipio de Guayaquil. Lo hizo con un acto urgente para preservar indicios, ante una posible investigación previa por peculado. También allanó el domicilio de un exfuncionario municipal, y cinco funcionarios de la ATM fueron llevados a dar su versión. El alcalde Aquiles Alvarez sigue detenido; la alcaldía está a cargo de la subrogante Tatiana Coronel. El Municipio dijo que está dispuesto a cooperar.
+
+**Fuentes:** [Vistazo — Fiscalía allana instalaciones de la ATM y el Municipio de Guayaquil por presunto peculado](https://www.vistazo.com/seguridad/2026-10-30-fiscalia-allana-instalaciones-atm-municipio-guayaquil-peculado-GL11298248) · [El Universo — Allanamientos en la ATM y el Municipio de Guayaquil](https://www.eluniverso.com/politica/seguridad/allanamientos-en-la-atm-y-el-municipio-de-guayaquil-por-presunto-peculado-nota/)
+
+### Allanan la casa del alcalde de Playas por obras de emergencia no ejecutadas — Ecuador
+En el operativo "Marea", la Policía y la Fiscalía hicieron seis allanamientos en Guayas, entre ellos la casa del alcalde de Playas, Gabriel Balladares, en cuyo vehículo hallaron US$15.000 en efectivo. Se investigan contratos de emergencia para albergues ante fenómenos naturales, con pagos por obras no ejecutadas y un presunto perjuicio de US$520.865. Hubo órdenes de detención con fines investigativos contra un funcionario y un exfuncionario municipal. El ministro del Interior, John Reimberg, explicó que el alcalde no fue detenido porque tiene inmunidad por ser candidato.
+
+**Fuentes:** [Vistazo — Alcalde de Playas investigado por presunto peculado: Reimberg explica por qué no fue detenido](https://vistazo.com/politica/2026-10-30-alcalde-playas-gabriel-balladares-peculado-reimberg-detenido-PL11298337) · [Extra — Obras para El Niño motivan allanamiento e investigación contra el alcalde de Playas](https://www.extra.ec/noticia/justicia/obras-nino-motivan-allanamiento-e-investigacion-alcalde-playas-166663.html)
+
+### Exdirectora de un fondo federal de cuidado infantil se declara culpable de soborno — Islas Marianas del Norte (EE.UU.)
+Maribel Loste, exdirectora del Fondo de Cuidado y Desarrollo Infantil (CCDF) de las Islas Marianas del Norte, aceptó declararse culpable de complicidad en robo y de soborno en un programa con fondos federales. Según el acuerdo, presentado el 25 de junio y hecho público el 29 de octubre, aprobó contratos con Evergreen Learning y recibió pagos del copropietario de otra empresa a cambio de tramitar los suyos. Además entregará al menos US$105.000. Será sentenciada el 8 de enero de 2027 y arriesga hasta unos 20 años de cárcel.
+
+**Fuentes:** [Marianas Press — Loste accepted responsibility in federal fraud case](https://marianaspress.com/news/article/loste-accepted-responsibility-in-federal-fraud-case-lawyer-says) · [Manila Times — Fil-American faces 20 years in CNMI fraud, bribery case](https://www.manilatimes.net/2026/10/31/news/national/fil-american-faces-20-years-in-cnmi-fraud-bribery-case/2458370)
