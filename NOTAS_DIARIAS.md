@@ -585,3 +585,22 @@ En el operativo "Marea", la Policía y la Fiscalía hicieron seis allanamientos 
 Maribel Loste, exdirectora del Fondo de Cuidado y Desarrollo Infantil (CCDF) de las Islas Marianas del Norte, aceptó declararse culpable de complicidad en robo y de soborno en un programa con fondos federales. Según el acuerdo, presentado el 25 de junio y hecho público el 29 de octubre, aprobó contratos con Evergreen Learning y recibió pagos del copropietario de otra empresa a cambio de tramitar los suyos. Además entregará al menos US$105.000. Será sentenciada el 8 de enero de 2027 y arriesga hasta unos 20 años de cárcel.
 
 **Fuentes:** [Marianas Press — Loste accepted responsibility in federal fraud case](https://marianaspress.com/news/article/loste-accepted-responsibility-in-federal-fraud-case-lawyer-says) · [Manila Times — Fil-American faces 20 years in CNMI fraud, bribery case](https://www.manilatimes.net/2026/10/31/news/national/fil-american-faces-20-years-in-cnmi-fraud-bribery-case/2458370)
+
+---
+
+## 01.11.2026
+
+### Detienen al exalcalde de Tuxtepec por contratos de obra por 23 millones de pesos — México
+La Fiscalía Anticorrupción de Oaxaca detuvo el 30 de octubre a Irineo Molina Espinoza, expresidente municipal de Tuxtepec, por uso ilícito de atribuciones. La investigación se centra en dos contratos de obra pública de octubre y noviembre de 2022, con pagos por unos 23 millones de pesos, y partió de una denuncia de la Auditoría Superior del Estado. Días antes se había sumado a Movimiento Ciudadano para volver a buscar la alcaldía; ese partido denuncia persecución política.
+
+**Fuentes:** [Proceso — Detienen a Irineo Molina, exalcalde de Tuxtepec, por desvío de 23 mdp](https://www.proceso.com.mx/nacional/estados/2026/10/30/detienen-a-irineo-molina-exalcalde-de-tuxtepec-oaxaca-por-desvio-de-23-mdp-382863.html) · [La Jornada — Cae ex alcalde de Tuxtepec por el desvío de 23 mdp](https://www.jornada.com.mx/2026/10/31/estados/023n3est)
+
+### Un "2%" escrito en un papel: cárcel para el alcalde de Villanueva por presuntas coimas a concejales — Colombia
+Un juez envió a la cárcel al alcalde de Villanueva (Santander), José Luis Gómez Mancilla, y al concejal Fredy Albeiro Pineda Vesga, imputados por cohecho propio y concierto para delinquir. La causa gira en torno a la aprobación de un préstamo para obras viales. Según la Fiscalía, el alcalde se reunió con dos concejales y escribió "2%" en un papel: sería la parte del crédito que recibirían si votaban a favor. Las defensas cuestionan los audios presentados, y ninguno de los dos aceptó los cargos.
+
+**Fuentes:** [Vanguardia — Audios y un "2 %": las acusaciones de corrupción de un fallido empréstito en Santander](https://www.vanguardia.com/santander/2026/11/01/audios-y-un-2-las-acusaciones-de-corrupcion-de-un-emprestito-de-2726-millones-en-santander/) · [El Tiempo — Envían a la cárcel al alcalde de Villanueva, Santander](https://www.eltiempo.com/colombia/santander/envian-a-la-carcel-al-alcalde-de-villanueva-santander-ya-se-conocieron-las-razones-por-las-que-es-investigado-habria-sobornado-a-concejales-3596584)
+
+### Diez detenidos por sobornos en el servicio de ejecución judicial — Armenia
+El Comité Anticorrupción de Armenia detuvo a 10 personas en una investigación por recibir y entregar sobornos. Entre ellas está el jefe de la división de Shirak del Servicio de Ejecución Forzosa, que depende del Ministerio de Justicia, y otros dos funcionarios. Esos tres quedaron en prisión preventiva; el resto recibió medidas sin cárcel. La investigación sigue abierta.
+
+**Fuentes:** [Armenpress — Ten arrested in Armenia bribery investigation, including bailiff service officials](https://armenpress.am/en/article/1264299) · [NT.am — Ten individuals have been arrested](https://nt.am/en/news/362793)
