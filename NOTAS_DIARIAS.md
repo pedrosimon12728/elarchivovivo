@@ -604,3 +604,27 @@ Un juez envió a la cárcel al alcalde de Villanueva (Santander), José Luis Gó
 El Comité Anticorrupción de Armenia detuvo a 10 personas en una investigación por recibir y entregar sobornos. Entre ellas está el jefe de la división de Shirak del Servicio de Ejecución Forzosa, que depende del Ministerio de Justicia, y otros dos funcionarios. Esos tres quedaron en prisión preventiva; el resto recibió medidas sin cárcel. La investigación sigue abierta.
 
 **Fuentes:** [Armenpress — Ten arrested in Armenia bribery investigation, including bailiff service officials](https://armenpress.am/en/article/1264299) · [NT.am — Ten individuals have been arrested](https://nt.am/en/news/362793)
+
+---
+
+## 02.11.2026
+
+### Caso Comprometidos: Fiscalía acusa a 10 por $600 millones en fondos regionales — Chile
+La Fiscalía de Atacama informó que presentó acusación contra diez personas en el caso Fundación Comprometidos. Entre ellas hay funcionarios de los gobiernos regionales de Arica y Parinacota, Antofagasta y Atacama, y también particulares. Los delitos imputados son fraude al fisco, lavado de activos, soborno, administración desleal y cohecho agravado, con un perjuicio estimado en $600 millones, y la Fiscalía pide penas de cárcel efectiva. Se investigan programas de agua potable para campamentos de Copiapó y de atención veterinaria en el norte. El Gobierno Regional de Atacama pidió a la Fiscalía aclarar su comunicado: según el Gore, el convenio investigado lo firmó la Seremi de Vivienda y se pagó con recursos del Minvu.
+
+**Fuentes:** [Radio Gennesis — Fiscalía de Atacama acusó a diez imputados por delitos de corrupción en caso "Comprometidos"](https://www.radiogennesis.cl/2026/11/02/fiscalia-de-atacama-acuso-a-diez-imputados-por-delitos-de-corrupcion-en-caso-comprometidos/) · [Nostálgica — Caso Comprometidos: Fiscalía acusa a 10 por corrupción](https://www.nostalgica.cl/fiscalia-acusa-a-diez-imputados-por-corrupcion-en-caso-fundacion-comprometidos/) · [Radio Atacama — Gore solicita a Fiscalía aclarar comunicado](https://www.radioatacama.cl/regional/gobierno-regional-atacama-solicita-formalmente-fiscalia-aclarar-comunicado-caso-fundacion-comprometidos)
+
+### Hotesur–Los Sauces: termina la lectura de cargos contra Cristina y Máximo Kirchner — Argentina
+En la tercera audiencia del juicio ante el Tribunal Oral Federal 5 terminó la lectura de las acusaciones de la Fiscalía contra Cristina Kirchner, su hijo Máximo y los demás acusados. Los delitos imputados son asociación ilícita, lavado de activos y dádivas. Según la Fiscalía, el 88% de la facturación histórica de Los Sauces vino de empresas de Lázaro Báez y del Grupo Indalo. El juicio sigue este viernes con la acusación de la Unidad de Información Financiera (UIF), que es querellante.
+
+**Fuentes:** [Infobae — Hotesur - Los Sauces, el juicio: cómo los empresarios habrían transferido el dinero a la familia Kirchner](https://www.infobae.com/judiciales/2026/11/02/hotesur-los-sauces-el-juicio-retoman-la-lectura-de-la-acusacion-contra-cristina-kirchner-por-lavado-de-dinero/) · [El Esquiú — El TOF 5 inició el juicio por las causas Hotesur y Los Sauces](https://www.elesquiu.com/nacionales/2026/11/1/el-tof-5-inicio-el-juicio-por-las-causas-hotesur-y-los-sauces-con-la-lectura-de-la-acusacion-contra-601810.html)
+
+### El exgobernador Urribarri, a un nuevo juicio por enriquecimiento ilícito — Argentina
+El juez de Garantías de Paraná, Mariano Budasoff, envió a juicio oral al exgobernador de Entre Ríos Sergio Urribarri por enriquecimiento ilícito. Según la Fiscalía, entre 2008 y 2015 acumuló un patrimonio injustificado de unos US$7,2 millones, más pesos y euros, y usó a terceros para ocultarlo. Pedirá cinco años y diez meses de prisión. Las defensas cuestionan los montos y piden una pericia oficial. Urribarri ya cumple una condena unificada de ocho años por otras causas de corrupción.
+
+**Fuentes:** [Infobae — El ex gobernador Sergio Urribarri, ante un nuevo juicio por enriquecimiento ilícito](https://www.infobae.com/judiciales/2026/10/31/el-ex-gobernador-sergio-urribarri-ante-un-nuevo-juicio-por-enriquecimiento-ilicito/) · [APF Digital — Causa Urribarri: las defensas insisten en una pericia oficial](https://www.apfdigital.com.ar/noticias/2026/11/02/477432-causa-urribari-tras-los-acuerdos-probatorios-por-la-evidencia-de-fiscalia-las-defensas-insisten-en-una-pericia-oficial-para-aclarar-los-montos-imputados)
+
+### Seguimiento — Sur Finanzas: allanan dos bancos por las operaciones de Ariel Vallejo — Argentina
+El juez federal Juan Tomás Rodríguez Ponte ordenó procedimientos en las sedes porteñas del Banco Industrial y del Banco Hipotecario, en la causa por presunto lavado contra el dueño de Sur Finanzas, Ariel Vallejo. El Banco Industrial era depositario de fondos de Sur Finanzas y cerró su cuenta en diciembre de 2025, tras una alerta por operaciones sospechosas. En el Hipotecario se busca documentación de operaciones por $14.898 millones entre noviembre y diciembre de 2025. Vallejo sigue detenido.
+
+**Fuentes:** [Infobae — Sur Finanzas: ordenan procedimientos en dos bancos](https://www.infobae.com/judiciales/2026/11/02/sur-finanzas-allanaron-dos-bancos-en-busca-de-documentacion-sobre-las-maniobras-del-detenido-ariel-vallejo/) · [iProfesional — Allanaron dos bancos por la causa contra Ariel Vallejo](https://www.iprofesional.com/legales/468109-allanaron-dos-bancos-por-la-causa-contra-ariel-vallejo-el-financista-vinculado-a-tapia)
