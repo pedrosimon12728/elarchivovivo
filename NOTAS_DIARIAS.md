@@ -652,3 +652,27 @@ La Fiscalía de Concepción formalizará por cohecho al cabo primero Juan Arturo
 Internos del penal El Milagro, en Trujillo, enviaron una carta al ministro de Justicia, Ernesto Álvarez. En ella denuncian cobros de 10 soles semanales y pagos de hasta US$15 para evitar requisas, que según Exitosa afectarían a más de 600 presos. La presidenta Keiko Fujimori visitó el penal tras una reyerta que dejó tres muertos y ordenó investigar las denuncias, que alcanzan a personal del INPE y a la dirección del penal. El ministro dijo que no puede descartar corrupción dentro del penal.
 
 **Fuentes:** [Infobae — Ministro de Justicia no descarta corrupción en el INPE luego de caso de cobro de cupos en el penal El Milagro](https://www.infobae.com/peru/2026/11/03/ministro-de-justicia-no-descarta-corrupcion-en-el-inpe-luego-de-caso-de-cobro-de-cupos-en-el-penal-el-milagro/) · [Exitosa — Penal El Milagro: internos denuncian presuntos cobros de cupos en carta escrita al ministro de Justicia](https://www.exitosanoticias.pe/actualidad/penal-milagro-internos-denuncian-presuntos-cobros-cupos-carta-escrita-ministro-justicia-n187378)
+
+---
+
+## 04.11.2026
+
+### El ministro de Cultura Alberto Beingolea se declara inocente al iniciar su juicio por colusión — Perú
+El ministro de Cultura, Alberto Beingolea, rechazó los cargos al comenzar el 4 de noviembre su juicio oral por colusión agravada. La causa es por un contrato de asesoría legal de 2019 con el Gobierno Regional del Callao, por el que cobró S/30.000. Al declararse inocente descartó una conclusión anticipada con pena reducida, así que el juicio sigue hasta la sentencia. La Fiscalía bajó su pedido de 10 a 8 años de prisión. Beingolea sostiene que hizo el trabajo por el que lo contrataron.
+
+**Fuentes:** [Infobae — Alberto Beingolea no acepta cargos y se declara inocente ante el PJ](https://www.infobae.com/peru/2026/11/04/alberto-beingolea-no-acepta-cargos-y-se-declara-inocente-ante-el-pj-fiscalia-pide-8-anos-de-prision/) · [La República — Juicio oral por presunta colusión agravada contra ministro de Cultura inició este 4 de noviembre](https://larepublica.pe/politica/2026/11/04/alberto-beingolea-juicio-oral-por-presunta-colusion-agravada-contra-ministro-de-cultura-inicia-este-4-de-noviembre-hnews-364756)
+
+### Mendoza expulsa por primera vez desde 1983 a una diputada, condenada por corrupción — Argentina
+La Cámara de Diputados de Mendoza expulsó por unanimidad (46 votos) a Janina Ortiz. El 20 de octubre había sido condenada en juicio abreviado a tres años de prisión en suspenso y a inhabilitación perpetua para cargos públicos, por hechos de corrupción en la Municipalidad de Las Heras. Ella y el exintendente Daniel Orozco admitieron su culpabilidad. Ortiz estaba suspendida sin goce de sueldo desde marzo de 2024. La Cámara rechazó su reclamo de los sueldos de ese periodo, que ahora resolverá la Suprema Corte provincial.
+
+**Fuentes:** [Infobae — Mendoza: expulsaron a una diputada de la Legislatura que fue condenada por corrupción](https://www.infobae.com/politica/2026/11/04/mendoza-expulsaron-a-una-diputada-de-la-legislatura-que-fue-condenada-por-corrupcion/) · [La Nación — La Cámara de Diputados de Mendoza expulsó a una legisladora condenada por corrupción](https://www.lanacion.com.ar/politica/la-camara-de-diputados-de-mendoza-expulso-a-una-legisladora-que-fue-condenada-por-corrupcion-nid04112026/)
+
+### El jefe del SBU destituye a dos altos funcionarios investigados por proteger centros de estafas — Ucrania
+El jefe del Servicio de Seguridad de Ucrania (SBU), Oleksandr Poklad, destituyó a dos altos funcionarios investigados por la Oficina Nacional Anticorrupción (NABU) en la operación "Cartago". Según la NABU, altos mandos del SBU, la Fiscalía y la policía cobraban por proteger una red de al menos 52 centros de llamadas dedicados a estafas telefónicas. Los operadores de cada centro pagaban US$7.000 al mes por esa protección. La NABU detuvo al general Serhii Duka, primer subjefe del departamento de protección de la integridad estatal del SBU.
+
+**Fuentes:** [Infobae — El jefe del SBU destituyó a dos altos funcionarios investigados por corrupción en Ucrania](https://www.infobae.com/america/mundo/2026/11/05/el-jefe-del-sbu-destituyo-a-dos-altos-funcionarios-investigados-por-corrupcion-en-ucrania/) · [Ukrinform — Poklad dismisses two SBU officials implicated in Carthage case](https://www.ukrinform.net/rubric-society/4181504-poklad-dismisses-two-sbu-officials-implicated-in-carthage-case.html)
+
+### 14 años de cárcel para el expresidente de China Eastern por sobornos de US$10 millones — China
+Un tribunal de Shenyang condenó a 14 años de prisión a Liu Shaoyong, expresidente de China Eastern Airlines. Concluyó que entre 2002 y 2023 recibió unos 67,5 millones de yuanes en sobornos, cerca de US$10,1 millones. A cambio usó sus cargos en China Eastern y China Southern para conseguir negocios, contratos y aprobaciones de rutas para terceros. Según la televisión estatal CCTV, se declaró culpable y mostró arrepentimiento en el juicio de julio.
+
+**Fuentes:** [Caixin — Ex-China Eastern Chairman Sentenced to 14 Years for Bribery](https://www.caixinglobal.com/2026-11-04/ex-china-eastern-chairman-sentenced-to-14-years-for-bribery-102500972.html) · [Bangkok Post — China Eastern Airlines ex-chairman sentenced to 14 years for bribery](https://www.bangkokpost.com/world/3347951/china-eastern-airlines-former-chairman-liu-shaoyong-sentenced-to-14-years-for-bribery)
